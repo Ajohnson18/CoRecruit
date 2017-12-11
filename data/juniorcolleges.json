@@ -1,0 +1,9470 @@
+﻿[
+ {
+   "FIELD1": "UnitID",
+   "FIELD2": "Institution Name",
+   "FIELD3": "Highest degree offered (HD2016)",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "180203",
+   "FIELD2": "Aaniiih Nakoda College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "412173",
+   "FIELD2": "Academy for Nursing and Health Occupations",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "449454",
+   "FIELD2": "Academy of Natural Therapy Inc",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "188438",
+   "FIELD2": "Adirondack Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "444334",
+   "FIELD2": "Advance Science Institute",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "444343",
+   "FIELD2": "Advanced College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "481234",
+   "FIELD2": "Advanced Computing Institute",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "231411",
+   "FIELD2": "Advanced Technology Institute",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "444361",
+   "FIELD2": "Advanced Training Associates",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "205391",
+   "FIELD2": "Advertising Art Educational Services DBA School of Advertising Art",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "217615",
+   "FIELD2": "Aiken Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "126207",
+   "FIELD2": "Aims Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "101949",
+   "FIELD2": "Alabama Southern Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "199786",
+   "FIELD2": "Alamance Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "103501",
+   "FIELD2": "Alaska Career College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "442523",
+   "FIELD2": "Alaska Christian College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "138682",
+   "FIELD2": "Albany Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "172918",
+   "FIELD2": "Alexandria Technical & Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "474997",
+   "FIELD2": "All-State Career School-Allied Health Campus",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "108807",
+   "FIELD2": "Allan Hancock College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "161688",
+   "FIELD2": "Allegany College of Maryland",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "154642",
+   "FIELD2": "Allen County Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "222567",
+   "FIELD2": "Alvin Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "222576",
+   "FIELD2": "Amarillo College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "188687",
+   "FIELD2": "American Academy McAllister Institute of Funeral Service",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "108852",
+   "FIELD2": "American Academy of Dramatic Arts-Los Angeles",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "188678",
+   "FIELD2": "American Academy of Dramatic Arts-New York",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "441052",
+   "FIELD2": "American Career College-Anaheim",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "109040",
+   "FIELD2": "American Career College-Los Angeles",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "447768",
+   "FIELD2": "American Career College-Ontario",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "441636",
+   "FIELD2": "American Institute of Alternative Medicine",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "475714",
+   "FIELD2": "American Medical Academy",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "461263",
+   "FIELD2": "American Medical Sciences Center",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "480480",
+   "FIELD2": "American National University-Canton",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "453473",
+   "FIELD2": "American National University-Cincinnati",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "453455",
+   "FIELD2": "American National University-Dayton",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "487357",
+   "FIELD2": "American National University-Stow",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "487366",
+   "FIELD2": "American National University-Willoughby Hills",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "453464",
+   "FIELD2": "American National University-Youngstown",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "109208",
+   "FIELD2": "American River College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "461573",
+   "FIELD2": "American Trade School",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "150048",
+   "FIELD2": "Ancilla College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "138761",
+   "FIELD2": "Andrew College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "222822",
+   "FIELD2": "Angelina College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "161767",
+   "FIELD2": "Anne Arundel Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "172954",
+   "FIELD2": "Anoka Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "172963",
+   "FIELD2": "Anoka-Ramsey Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "201016",
+   "FIELD2": "Antonelli College-Cincinnati",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "383950",
+   "FIELD2": "Antonelli College-Hattiesburg",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "175528",
+   "FIELD2": "Antonelli College-Jackson",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "210890",
+   "FIELD2": "Antonelli Institute",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "126289",
+   "FIELD2": "Arapahoe Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "421708",
+   "FIELD2": "Arizona College-Glendale",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "104160",
+   "FIELD2": "Arizona Western College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "107327",
+   "FIELD2": "Arkansas Northeastern College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "107318",
+   "FIELD2": "Arkansas State University Mid-South",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "106449",
+   "FIELD2": "Arkansas State University-Beebe",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "420538",
+   "FIELD2": "Arkansas State University-Mountain Home",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "440402",
+   "FIELD2": "Arkansas State University-Newport",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "404994",
+   "FIELD2": "ASA College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "447777",
+   "FIELD2": "Asher College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "197887",
+   "FIELD2": "Asheville-Buncombe Technical Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "156231",
+   "FIELD2": "Ashland Community and Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "128577",
+   "FIELD2": "Asnuntuck Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "183600",
+   "FIELD2": "Assumption College for Sisters",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "446127",
+   "FIELD2": "ATA Career Education",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "447935",
+   "FIELD2": "ATA College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "246813",
+   "FIELD2": "Athens Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "419244",
+   "FIELD2": "Atlanta Institute of Music and Media",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "138840",
+   "FIELD2": "Atlanta Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "183655",
+   "FIELD2": "Atlantic Cape Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "439455",
+   "FIELD2": "ATS Institute of Technology",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "138956",
+   "FIELD2": "Augusta Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "444556",
+   "FIELD2": "Auguste Escoffier School of Culinary Arts-Austin",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "222992",
+   "FIELD2": "Austin Community College District",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "447847",
+   "FIELD2": "Aviator College of Aeronautical Science and Technology",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "483762",
+   "FIELD2": "Azure College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "161864",
+   "FIELD2": "Baltimore City Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "106546",
+   "FIELD2": "Baptist Health College-Little Rock",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "109907",
+   "FIELD2": "Barstow Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "154697",
+   "FIELD2": "Barton County Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "235671",
+   "FIELD2": "Bates Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "437103",
+   "FIELD2": "Baton Rouge Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "158343",
+   "FIELD2": "Baton Rouge School of Computers",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "168883",
+   "FIELD2": "Bay de Noc Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "380359",
+   "FIELD2": "Bay Mills Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "160995",
+   "FIELD2": "Beal College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "197966",
+   "FIELD2": "Beaufort County Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "452373",
+   "FIELD2": "Beckfield College-Tri-County",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "126359",
+   "FIELD2": "Bel-Rea Institute of Animal Technology",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "190956",
+   "FIELD2": "Belanger School of Nursing",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "201283",
+   "FIELD2": "Belmont College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "183743",
+   "FIELD2": "Bergen Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "125170",
+   "FIELD2": "Berkeley City College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "213534",
+   "FIELD2": "Berks Technical Institute",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "164775",
+   "FIELD2": "Berkshire Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "102429",
+   "FIELD2": "Bevill State Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "211149",
+   "FIELD2": "Bidwell Training Center Inc",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "234711",
+   "FIELD2": "Big Bend Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "157553",
+   "FIELD2": "Big Sandy Community and Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "102030",
+   "FIELD2": "Bishop State Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "143279",
+   "FIELD2": "Black Hawk College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "106625",
+   "FIELD2": "Black River Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "180054",
+   "FIELD2": "Blackfeet Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "238397",
+   "FIELD2": "Blackhawk Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "198011",
+   "FIELD2": "Bladen Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "223427",
+   "FIELD2": "Blinn College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "450128",
+   "FIELD2": "Blue Cliff College-Alexandria",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "434821",
+   "FIELD2": "Blue Cliff College-Metairie",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "208275",
+   "FIELD2": "Blue Mountain Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "446774",
+   "FIELD2": "Blue Ridge Community and Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "198039",
+   "FIELD2": "Blue Ridge Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "231536",
+   "FIELD2": "Blue Ridge Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "156392",
+   "FIELD2": "Bluegrass Community and Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "158431",
+   "FIELD2": "Bossier Parish Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "201432",
+   "FIELD2": "Bowling Green State University-Firelands",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "202161",
+   "FIELD2": "Bradford School",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "211200",
+   "FIELD2": "Bradford School",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "189422",
+   "FIELD2": "Bramson ORT College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "484932",
+   "FIELD2": "BridgeValley Community & Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "215646",
+   "FIELD2": "Brightwood Career Institute-Broomall",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "251075",
+   "FIELD2": "Brightwood Career Institute-Harrisburg",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "214254",
+   "FIELD2": "Brightwood Career Institute-Philadelphia",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "211617",
+   "FIELD2": "Brightwood Career Institute-Philadelphia Mills",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "213002",
+   "FIELD2": "Brightwood Career Institute-Pittsburgh",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "458690",
+   "FIELD2": "Brightwood College-Arlington",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "447102",
+   "FIELD2": "Brightwood College-Bakersfield",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "163736",
+   "FIELD2": "Brightwood College-Baltimore",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "440323",
+   "FIELD2": "Brightwood College-Beaumont",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "164058",
+   "FIELD2": "Brightwood College-Beltsville",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "443827",
+   "FIELD2": "Brightwood College-Brownsville",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "458706",
+   "FIELD2": "Brightwood College-Charlotte",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "458186",
+   "FIELD2": "Brightwood College-Chula Vista",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "443836",
+   "FIELD2": "Brightwood College-Corpus Christi",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "382896",
+   "FIELD2": "Brightwood College-Dallas",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "204626",
+   "FIELD2": "Brightwood College-Dayton",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "246266",
+   "FIELD2": "Brightwood College-El Paso",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "445328",
+   "FIELD2": "Brightwood College-Fort Worth",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "447120",
+   "FIELD2": "Brightwood College-Fresno",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "439127",
+   "FIELD2": "Brightwood College-Friendswood",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "229036",
+   "FIELD2": "Brightwood College-Houston",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "458283",
+   "FIELD2": "Brightwood College-Indianapolis",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "440332",
+   "FIELD2": "Brightwood College-Laredo",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "374875",
+   "FIELD2": "Brightwood College-Las Vegas",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "227836",
+   "FIELD2": "Brightwood College-McAllen",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "366960",
+   "FIELD2": "Brightwood College-Modesto",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "246202",
+   "FIELD2": "Brightwood College-Nashville",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "118967",
+   "FIELD2": "Brightwood College-North Hollywood",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "447634",
+   "FIELD2": "Brightwood College-Palm Springs",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "432302",
+   "FIELD2": "Brightwood College-Riverside",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "118259",
+   "FIELD2": "Brightwood College-Sacramento",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "431886",
+   "FIELD2": "Brightwood College-San Antonio-Ingram",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "364955",
+   "FIELD2": "Brightwood College-San Antonio-San Pedro",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "118277",
+   "FIELD2": "Brightwood College-San Diego",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "161776",
+   "FIELD2": "Brightwood College-Towson",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "118286",
+   "FIELD2": "Brightwood College-Vista",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "165033",
+   "FIELD2": "Bristol Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "183859",
+   "FIELD2": "Brookdale Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "223524",
+   "FIELD2": "Brookhaven College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "404055",
+   "FIELD2": "Brookline College-Tempe",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "139214",
+   "FIELD2": "Brown College of Court Reporting",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "410283",
+   "FIELD2": "Brown Mackie College-Atlanta",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "421513",
+   "FIELD2": "Brown Mackie College-Hopkinsville",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "154767",
+   "FIELD2": "Brown Mackie College-Kansas City",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "373085",
+   "FIELD2": "Brown Mackie College-Quad Cities",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "198084",
+   "FIELD2": "Brunswick Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "439826",
+   "FIELD2": "Bryan College-Gold River",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "454458",
+   "FIELD2": "Bryan University",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "154794",
+   "FIELD2": "Bryan University",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "475583",
+   "FIELD2": "Bryan University",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "410496",
+   "FIELD2": "Bryant & Stratton College-Henrietta",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "189574",
+   "FIELD2": "Bryant & Stratton College-Syracuse",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "211307",
+   "FIELD2": "Bucks County Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "165112",
+   "FIELD2": "Bunker Hill Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "484181",
+   "FIELD2": "Burnett International College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "154800",
+   "FIELD2": "Butler Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "211343",
+   "FIELD2": "Butler County Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "110246",
+   "FIELD2": "Butte College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "110334",
+   "FIELD2": "Cabrillo College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "198118",
+   "FIELD2": "Caldwell Community College and Technical Institute",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "447713",
+   "FIELD2": "California Career College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "454865",
+   "FIELD2": "Cambridge College of Healthcare & Technology",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "446109",
+   "FIELD2": "Cambridge Institute of Allied Health & Technology",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "446093",
+   "FIELD2": "Cambridge Junior College-Yuba City",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "183938",
+   "FIELD2": "Camden County College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "158440",
+   "FIELD2": "Cameron College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "111434",
+   "FIELD2": "Canada College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "200208",
+   "FIELD2": "Cankdeska Cikana Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "165194",
+   "FIELD2": "Cape Cod Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "198154",
+   "FIELD2": "Cape Fear Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "158352",
+   "FIELD2": "Capital Area Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "129367",
+   "FIELD2": "Capital Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "181941",
+   "FIELD2": "Career College of Northern Nevada",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "454306",
+   "FIELD2": "Career Quest Learning Centers-Jackson",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "446136",
+   "FIELD2": "Career Quest Learning Centers-Lansing",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "420370",
+   "FIELD2": "Career Technical Institute",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "210951",
+   "FIELD2": "Career Training Academy-Lower Burrell",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "408312",
+   "FIELD2": "Career Training Academy-Monroeville",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "440174",
+   "FIELD2": "Career Training Academy-Pittsburgh",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "206923",
+   "FIELD2": "Carl Albert State College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "143613",
+   "FIELD2": "Carl Sandburg College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "433174",
+   "FIELD2": "Carolinas College of Health Sciences",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "442602",
+   "FIELD2": "Carrington College-Albuquerque",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "142054",
+   "FIELD2": "Carrington College-Boise",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "450702",
+   "FIELD2": "Carrington College-Citrus Heights",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "457101",
+   "FIELD2": "Carrington College-Las Vegas",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "103909",
+   "FIELD2": "Carrington College-Mesa",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "475750",
+   "FIELD2": "Carrington College-Mesquite",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "250601",
+   "FIELD2": "Carrington College-Phoenix East",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "103893",
+   "FIELD2": "Carrington College-Phoenix North",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "438258",
+   "FIELD2": "Carrington College-Pleasant Hill",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "467368",
+   "FIELD2": "Carrington College-Pomona",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "457110",
+   "FIELD2": "Carrington College-Reno",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "125532",
+   "FIELD2": "Carrington College-Sacramento",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "437936",
+   "FIELD2": "Carrington College-San Jose",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "246974",
+   "FIELD2": "Carrington College-San Leandro",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "439118",
+   "FIELD2": "Carrington College-Spokane",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "450696",
+   "FIELD2": "Carrington College-Stockton",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "405872",
+   "FIELD2": "Carroll Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "198206",
+   "FIELD2": "Carteret Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "430795",
+   "FIELD2": "Carver Career Center",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "111638",
+   "FIELD2": "Casa Loma College-Van Nuys",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "240505",
+   "FIELD2": "Casper College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "198233",
+   "FIELD2": "Catawba Valley Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "189839",
+   "FIELD2": "Cayuga County Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "439367",
+   "FIELD2": "CBD College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "162104",
+   "FIELD2": "Cecil College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "223773",
+   "FIELD2": "Cedar Valley College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "379782",
+   "FIELD2": "Center for Advanced Legal Studies",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "232618",
+   "FIELD2": "Centra College of Nursing",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "100760",
+   "FIELD2": "Central Alabama Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "104346",
+   "FIELD2": "Central Arizona College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "198251",
+   "FIELD2": "Central Carolina Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "218858",
+   "FIELD2": "Central Carolina Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "378105",
+   "FIELD2": "Central Coast College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "180902",
+   "FIELD2": "Central Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "483045",
+   "FIELD2": "Central Georgia Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "173203",
+   "FIELD2": "Central Lakes College-Brainerd",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "158088",
+   "FIELD2": "Central Louisiana Technical Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "161077",
+   "FIELD2": "Central Maine Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "187532",
+   "FIELD2": "Central New Mexico Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "201672",
+   "FIELD2": "Central Ohio Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "208318",
+   "FIELD2": "Central Oregon Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "198260",
+   "FIELD2": "Central Piedmont Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "223816",
+   "FIELD2": "Central Texas College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "231697",
+   "FIELD2": "Central Virginia Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "240514",
+   "FIELD2": "Central Wyoming College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "420024",
+   "FIELD2": "Centura College-Chesapeake",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "444972",
+   "FIELD2": "Centura College-Columbia",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "377449",
+   "FIELD2": "Centura College-Newport News",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "377458",
+   "FIELD2": "Centura College-Norfolk",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "427982",
+   "FIELD2": "Centura College-Richmond Main",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "175315",
+   "FIELD2": "Century College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "111887",
+   "FIELD2": "Cerritos College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "111896",
+   "FIELD2": "Cerro Coso Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "111920",
+   "FIELD2": "Chabot College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "111939",
+   "FIELD2": "Chaffey College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "364025",
+   "FIELD2": "Chandler-Gilbert Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "201751",
+   "FIELD2": "Chatfield College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "140331",
+   "FIELD2": "Chattahoochee Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "101028",
+   "FIELD2": "Chattahoochee Valley Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "220118",
+   "FIELD2": "Chattanooga College Medical Dental and Technical Careers",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "219824",
+   "FIELD2": "Chattanooga State Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "208390",
+   "FIELD2": "Chemeketa Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "162168",
+   "FIELD2": "Chesapeake College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "437769",
+   "FIELD2": "Chester Career College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "181145",
+   "FIELD2": "CHI Health School of Radiologic Technology",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "393180",
+   "FIELD2": "Chicago ORT Technical Institute",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "180160",
+   "FIELD2": "Chief Dull Knife College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "240116",
+   "FIELD2": "Chippewa Valley Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "201928",
+   "FIELD2": "Cincinnati State Technical and Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "223898",
+   "FIELD2": "Cisco College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "112172",
+   "FIELD2": "Citrus College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "112190",
+   "FIELD2": "City College of San Francisco",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "417327",
+   "FIELD2": "City College-Altamonte Springs",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "475477",
+   "FIELD2": "City College-Hollywood",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "144209",
+   "FIELD2": "City Colleges of Chicago-Harold Washington College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "144184",
+   "FIELD2": "City Colleges of Chicago-Harry S Truman College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "144157",
+   "FIELD2": "City Colleges of Chicago-Kennedy-King College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "144166",
+   "FIELD2": "City Colleges of Chicago-Malcolm X College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "144175",
+   "FIELD2": "City Colleges of Chicago-Olive-Harvey College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "144193",
+   "FIELD2": "City Colleges of Chicago-Richard J Daley College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "144218",
+   "FIELD2": "City Colleges of Chicago-Wilbur Wright College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "208406",
+   "FIELD2": "Clackamas Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "223922",
+   "FIELD2": "Clarendon College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "201973",
+   "FIELD2": "Clark State Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "450401",
+   "FIELD2": "Clary Sage College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "208415",
+   "FIELD2": "Clatsop Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "198321",
+   "FIELD2": "Cleveland Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "219879",
+   "FIELD2": "Cleveland State Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "190053",
+   "FIELD2": "Clinton Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "154907",
+   "FIELD2": "Cloud County Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "187639",
+   "FIELD2": "Clovis Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "489201",
+   "FIELD2": "Clovis Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "175519",
+   "FIELD2": "Coahoma Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "223320",
+   "FIELD2": "Coastal Bend College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "198330",
+   "FIELD2": "Coastal Carolina Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "485458",
+   "FIELD2": "Coastal Pines Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "112385",
+   "FIELD2": "Coastline Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "104425",
+   "FIELD2": "Cochise County Community College District",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "190071",
+   "FIELD2": "Cochran School of Nursing",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "404426",
+   "FIELD2": "Coconino Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "154925",
+   "FIELD2": "Coffeyville Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "154934",
+   "FIELD2": "Colby Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "108667",
+   "FIELD2": "College of Alameda",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "456977",
+   "FIELD2": "College of Business and Technology-Cutler Bay",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "449083",
+   "FIELD2": "College of Business and Technology-Flagler",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "449092",
+   "FIELD2": "College of Business and Technology-Hialeah",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "150251",
+   "FIELD2": "College of Court Reporting Inc",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "144865",
+   "FIELD2": "College of DuPage",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "489283",
+   "FIELD2": "College of Health Care Professions-McAllen Campus",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "146472",
+   "FIELD2": "College of Lake County",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "118347",
+   "FIELD2": "College of Marin",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "122791",
+   "FIELD2": "College of San Mateo",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "142559",
+   "FIELD2": "College of Southern Idaho",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "162122",
+   "FIELD2": "College of Southern Maryland",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "197814",
+   "FIELD2": "College of the Albemarle",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "111461",
+   "FIELD2": "College of the Canyons",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "113573",
+   "FIELD2": "College of the Desert",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "226408",
+   "FIELD2": "College of the Mainland",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "480967",
+   "FIELD2": "College of the Muscogee Nation",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "107521",
+   "FIELD2": "College of the Ouachitas",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "121707",
+   "FIELD2": "College of the Redwoods",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "123217",
+   "FIELD2": "College of the Sequoias",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "123484",
+   "FIELD2": "College of the Siskiyous",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "455114",
+   "FIELD2": "College of Western Idaho",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "247834",
+   "FIELD2": "Collin County Community College District",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "461953",
+   "FIELD2": "Colorado Academy of Veterinary Technology",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "126748",
+   "FIELD2": "Colorado Northwestern Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "381732",
+   "FIELD2": "Colorado School of Healing Arts",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "126784",
+   "FIELD2": "Colorado School of Trades",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "479248",
+   "FIELD2": "Columbia College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "455983",
+   "FIELD2": "Columbia College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "112561",
+   "FIELD2": "Columbia College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "420556",
+   "FIELD2": "Columbia Gorge Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "219888",
+   "FIELD2": "Columbia State Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "190169",
+   "FIELD2": "Columbia-Greene Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "202222",
+   "FIELD2": "Columbus State Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "139357",
+   "FIELD2": "Columbus Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "483522",
+   "FIELD2": "Comanche Nation College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "366261",
+   "FIELD2": "Commonwealth Institute of Funeral Service",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "212975",
+   "FIELD2": "Commonwealth Technical Institute",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "439570",
+   "FIELD2": "Community Care College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "446163",
+   "FIELD2": "Community Christian College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "210605",
+   "FIELD2": "Community College of Allegheny County",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "126863",
+   "FIELD2": "Community College of Aurora",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "211079",
+   "FIELD2": "Community College of Beaver County",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "126942",
+   "FIELD2": "Community College of Denver",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "215239",
+   "FIELD2": "Community College of Philadelphia",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "217475",
+   "FIELD2": "Community College of Rhode Island",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "230861",
+   "FIELD2": "Community College of Vermont",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "126687",
+   "FIELD2": "Concorde Career College-Aurora",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "460181",
+   "FIELD2": "Concorde Career College-Dallas",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "123679",
+   "FIELD2": "Concorde Career College-Garden Grove",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "441742",
+   "FIELD2": "Concorde Career College-Grand Prairie",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "219903",
+   "FIELD2": "Concorde Career College-Memphis",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "124937",
+   "FIELD2": "Concorde Career College-North Hollywood",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "208479",
+   "FIELD2": "Concorde Career College-Portland",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "460206",
+   "FIELD2": "Concorde Career College-San Antonio",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "124706",
+   "FIELD2": "Concorde Career College-San Bernardino",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "120661",
+   "FIELD2": "Concorde Career College-San Diego",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "487588",
+   "FIELD2": "Concorde Career College-Southaven",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "133845",
+   "FIELD2": "Concorde Career Institute-Jacksonville",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "133854",
+   "FIELD2": "Concorde Career Institute-Miramar",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "460190",
+   "FIELD2": "Concorde Career Institute-Orlando",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "133863",
+   "FIELD2": "Concorde Career Institute-Tampa",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "206996",
+   "FIELD2": "Connors State College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "260354",
+   "FIELD2": "Consolidated School of Business-Lancaster",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "211820",
+   "FIELD2": "Consolidated School of Business-York",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "112826",
+   "FIELD2": "Contra Costa College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "175573",
+   "FIELD2": "Copiah-Lincoln Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "395362",
+   "FIELD2": "Copper Mountain Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "190442",
+   "FIELD2": "Corning Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "106795",
+   "FIELD2": "Cossatot Community College of the University of Arkansas",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "113096",
+   "FIELD2": "Cosumnes River College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "184180",
+   "FIELD2": "County College of Morris",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "481766",
+   "FIELD2": "Court Reporting Institute of St Louis",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "154952",
+   "FIELD2": "Cowley County Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "144485",
+   "FIELD2": "Coyne College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "113111",
+   "FIELD2": "Crafton Hills College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "198367",
+   "FIELD2": "Craven Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "177135",
+   "FIELD2": "Crowder College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "113193",
+   "FIELD2": "Cuesta College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "444565",
+   "FIELD2": "Culinary Institute Inc",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "184205",
+   "FIELD2": "Cumberland County College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "190521",
+   "FIELD2": "CUNY Borough of Manhattan Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "190530",
+   "FIELD2": "CUNY Bronx Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "190585",
+   "FIELD2": "CUNY Hostos Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "190619",
+   "FIELD2": "CUNY Kingsborough Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "190628",
+   "FIELD2": "CUNY LaGuardia Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "190673",
+   "FIELD2": "CUNY Queensborough Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "202356",
+   "FIELD2": "Cuyahoga Community College District",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "113218",
+   "FIELD2": "Cuyamaca College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "113236",
+   "FIELD2": "Cypress College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "231873",
+   "FIELD2": "Dabney S Lancaster Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "200314",
+   "FIELD2": "Dakota College at Bottineau",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "173416",
+   "FIELD2": "Dakota County Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "224271",
+   "FIELD2": "Dallas Institute of Funeral Service",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "144564",
+   "FIELD2": "Danville Area Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "231882",
+   "FIELD2": "Danville Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "232724",
+   "FIELD2": "Danville Regional Medical Center School of Health Professions",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "198376",
+   "FIELD2": "Davidson County Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "202435",
+   "FIELD2": "Davis College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "180151",
+   "FIELD2": "Dawson Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "205559",
+   "FIELD2": "Daymar College-Columbus",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "205531",
+   "FIELD2": "Daymar College-Jackson",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "449302",
+   "FIELD2": "Daymar College-Madisonville",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "205522",
+   "FIELD2": "Daymar College-New Boston",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "447014",
+   "FIELD2": "Daytona College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "113333",
+   "FIELD2": "De Anza College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "211909",
+   "FIELD2": "Dean Institute of Technology",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "224350",
+   "FIELD2": "Del Mar College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "432524",
+   "FIELD2": "Delaware College of Art and Design",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "211927",
+   "FIELD2": "Delaware County Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "158662",
+   "FIELD2": "Delgado Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "169521",
+   "FIELD2": "Delta College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "366270",
+   "FIELD2": "Delta College of Arts & Technology",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "158723",
+   "FIELD2": "Delta School of Business and Technology",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "217989",
+   "FIELD2": "Denmark Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "153214",
+   "FIELD2": "Des Moines Area Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "113634",
+   "FIELD2": "Diablo Valley College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "154998",
+   "FIELD2": "Dodge City Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "212045",
+   "FIELD2": "Douglas Education Center",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "198455",
+   "FIELD2": "Durham Technical Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "190840",
+   "FIELD2": "Dutchess Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "220057",
+   "FIELD2": "Dyersburg State Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "451006",
+   "FIELD2": "Eagle Rock College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "106883",
+   "FIELD2": "East Arkansas Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "177250",
+   "FIELD2": "East Central College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "175643",
+   "FIELD2": "East Central Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "113856",
+   "FIELD2": "East Los Angeles College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "175652",
+   "FIELD2": "East Mississippi Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "413802",
+   "FIELD2": "East San Gabriel Valley Regional Occupational Program",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "104577",
+   "FIELD2": "Eastern Arizona College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "203331",
+   "FIELD2": "Eastern Gateway Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "142179",
+   "FIELD2": "Eastern Idaho Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "153311",
+   "FIELD2": "Eastern Iowa Community College District",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "161138",
+   "FIELD2": "Eastern Maine Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "187666",
+   "FIELD2": "Eastern New Mexico University-Roswell Campus",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "383996",
+   "FIELD2": "Eastern New Mexico University-Ruidoso Campus",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "207050",
+   "FIELD2": "Eastern Oklahoma State College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "232052",
+   "FIELD2": "Eastern Shore Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "441858",
+   "FIELD2": "Eastern Virginia Career College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "438708",
+   "FIELD2": "Eastern West Virginia Community and Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "240596",
+   "FIELD2": "Eastern Wyoming College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "224572",
+   "FIELD2": "Eastfield College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "183488",
+   "FIELD2": "Eastwick College-Hackensack",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "185721",
+   "FIELD2": "Eastwick College-Nutley",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "460215",
+   "FIELD2": "Ecotech Institute",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "198491",
+   "FIELD2": "Edgecombe Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "202648",
+   "FIELD2": "Edison State Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "235103",
+   "FIELD2": "Edmonds Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "112686",
+   "FIELD2": "El Camino College-Compton Center",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "113980",
+   "FIELD2": "El Camino Community College District",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "224615",
+   "FIELD2": "El Centro College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "224642",
+   "FIELD2": "El Paso Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "144944",
+   "FIELD2": "Elgin Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "488305",
+   "FIELD2": "Elim Bible Institute and College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "156648",
+   "FIELD2": "Elizabethtown Community and Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "153296",
+   "FIELD2": "Ellsworth Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "190974",
+   "FIELD2": "Elmira Business Institute",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "487092",
+   "FIELD2": "Emory University-Oxford College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "101143",
+   "FIELD2": "Enterprise State Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "191083",
+   "FIELD2": "Erie Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "212434",
+   "FIELD2": "Erie Institute of Technology Inc",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "184481",
+   "FIELD2": "Essex County College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "384333",
+   "FIELD2": "Estrella Mountain Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "200590",
+   "FIELD2": "ETI Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "443854",
+   "FIELD2": "Everest College-Arlington",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "234739",
+   "FIELD2": "Everest College-Bremerton",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "438647",
+   "FIELD2": "Everest College-Chesapeake",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "126401",
+   "FIELD2": "Everest College-Colorado Springs",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "442790",
+   "FIELD2": "Everest College-Dallas",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "363590",
+   "FIELD2": "Everest College-Everett",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "460358",
+   "FIELD2": "Everest College-Fort Worth South",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "182148",
+   "FIELD2": "Everest College-Henderson",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "232502",
+   "FIELD2": "Everest College-Newport News",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "210359",
+   "FIELD2": "Everest College-Portland",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "444024",
+   "FIELD2": "Everest College-Tacoma",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "127787",
+   "FIELD2": "Everest College-Thornton",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "443748",
+   "FIELD2": "Everest Institute-Norcross",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "235149",
+   "FIELD2": "Everett Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "114266",
+   "FIELD2": "Evergreen Valley College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "198534",
+   "FIELD2": "Fayetteville Technical Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "487861",
+   "FIELD2": "Felbry College School of Nursing",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "114415",
+   "FIELD2": "FIDM-Fashion Institute of Design & Merchandising-Orange County",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "248846",
+   "FIELD2": "FIDM-Fashion Institute of Design & Merchandising-San Diego",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "436599",
+   "FIELD2": "FINE Mortuary College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "191199",
+   "FIELD2": "Finger Lakes Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "475422",
+   "FIELD2": "Finger Lakes Health College of Nursing",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "180197",
+   "FIELD2": "Flathead Valley Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "160481",
+   "FIELD2": "Fletcher Technical Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "155052",
+   "FIELD2": "Flint Hills Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "218025",
+   "FIELD2": "Florence-Darlington Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "487384",
+   "FIELD2": "Florida Career College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "487445",
+   "FIELD2": "Florida Career College-Boynton Beach",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "487409",
+   "FIELD2": "Florida Career College-Hialeah",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "487490",
+   "FIELD2": "Florida Career College-Houston Campus",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "487436",
+   "FIELD2": "Florida Career College-Jacksonville",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "487463",
+   "FIELD2": "Florida Career College-Kendall",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "487418",
+   "FIELD2": "Florida Career College-Lauderdale Lakes",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "487454",
+   "FIELD2": "Florida Career College-Margate",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "133997",
+   "FIELD2": "Florida Career College-Miami",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "487472",
+   "FIELD2": "Florida Career College-Orlando",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "487427",
+   "FIELD2": "Florida Career College-Tampa",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "487481",
+   "FIELD2": "Florida Career College-UEI College-Phoenix",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "487393",
+   "FIELD2": "Florida Career College-West Palm Beach",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "438285",
+   "FIELD2": "Florida College of Natural Health-Maitland",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "420103",
+   "FIELD2": "Florida College of Natural Health-Miami",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "387925",
+   "FIELD2": "Florida College of Natural Health-Pompano Beach",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "441423",
+   "FIELD2": "Florida Education Institute",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "133960",
+   "FIELD2": "Florida Keys Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "444219",
+   "FIELD2": "Folsom Lake College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "380368",
+   "FIELD2": "Fond du Lac Tribal and Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "218043",
+   "FIELD2": "Forrest College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "198552",
+   "FIELD2": "Forsyth Technical Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "180212",
+   "FIELD2": "Fort Peck Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "155098",
+   "FIELD2": "Fort Scott Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "371052",
+   "FIELD2": "Fortis College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "439738",
+   "FIELD2": "Fortis College-Baton Rouge",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "205179",
+   "FIELD2": "Fortis College-Centerville",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "450067",
+   "FIELD2": "Fortis College-Cincinnati",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "460020",
+   "FIELD2": "Fortis College-Columbia",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "450058",
+   "FIELD2": "Fortis College-Columbus",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "480143",
+   "FIELD2": "Fortis College-Cutler Bay",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "487302",
+   "FIELD2": "Fortis College-Cuyahoga Falls",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "458478",
+   "FIELD2": "Fortis College-Grand Prairie",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "392415",
+   "FIELD2": "Fortis College-Houston",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "458681",
+   "FIELD2": "Fortis College-Indianapolis",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "451909",
+   "FIELD2": "Fortis College-Landover",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "447360",
+   "FIELD2": "Fortis College-Largo",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "475130",
+   "FIELD2": "Fortis College-Montgomery",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "233329",
+   "FIELD2": "Fortis College-Norfolk",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "439792",
+   "FIELD2": "Fortis College-Orange Park",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "456180",
+   "FIELD2": "Fortis College-Phoenix",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "201399",
+   "FIELD2": "Fortis College-Ravenna",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "382957",
+   "FIELD2": "Fortis College-Richmond",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "456454",
+   "FIELD2": "Fortis College-Salt Lake City",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "372921",
+   "FIELD2": "Fortis College-Smyrna",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "442745",
+   "FIELD2": "Fortis Institute",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "455628",
+   "FIELD2": "Fortis Institute-Birmingham",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "418870",
+   "FIELD2": "Fortis Institute-Cookeville",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "216418",
+   "FIELD2": "Fortis Institute-Erie",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "249609",
+   "FIELD2": "Fortis Institute-Forty Fort",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "459958",
+   "FIELD2": "Fortis Institute-Houston",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "452124",
+   "FIELD2": "Fortis Institute-Nashville",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "455479",
+   "FIELD2": "Fortis Institute-Pensacola",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "445744",
+   "FIELD2": "Fortis Institute-Port Saint Lucie",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "385503",
+   "FIELD2": "Fortis Institute-Scranton",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "145239",
+   "FIELD2": "Fox College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "238722",
+   "FIELD2": "Fox Valley Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "224891",
+   "FIELD2": "Frank Phillips College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "162557",
+   "FIELD2": "Frederick Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "114789",
+   "FIELD2": "Fresno City College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "127200",
+   "FIELD2": "Front Range Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "403469",
+   "FIELD2": "Frontier Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "114859",
+   "FIELD2": "Fullerton College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "191302",
+   "FIELD2": "Fulton-Montgomery Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "101240",
+   "FIELD2": "Gadsden State Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "452948",
+   "FIELD2": "Galen College of Nursing-Cincinnati",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "406033",
+   "FIELD2": "Galen College of Nursing-San Antonio",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "406024",
+   "FIELD2": "Galen College of Nursing-Tampa Bay",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "205513",
+   "FIELD2": "Gallipolis Career College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "224961",
+   "FIELD2": "Galveston College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "155104",
+   "FIELD2": "Garden City Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "162609",
+   "FIELD2": "Garrett College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "198570",
+   "FIELD2": "Gaston College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "157438",
+   "FIELD2": "Gateway Community and Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "130396",
+   "FIELD2": "Gateway Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "105145",
+   "FIELD2": "GateWay Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "238759",
+   "FIELD2": "Gateway Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "114938",
+   "FIELD2": "Gavilan College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "191339",
+   "FIELD2": "Genesee Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "101286",
+   "FIELD2": "George C Wallace Community College-Dothan",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "101295",
+   "FIELD2": "George C Wallace State Community College-Hanceville",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "101301",
+   "FIELD2": "George C Wallace State Community College-Selma",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "139384",
+   "FIELD2": "Georgia Northwestern Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "244446",
+   "FIELD2": "Georgia Piedmont Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "244437",
+   "FIELD2": "Georgia State University-Perimeter College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "232195",
+   "FIELD2": "Germanna Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "169974",
+   "FIELD2": "Glen Oaks Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "115010",
+   "FIELD2": "Glendale Career College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "115001",
+   "FIELD2": "Glendale Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "104708",
+   "FIELD2": "Glendale Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "169992",
+   "FIELD2": "Gogebic Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "115126",
+   "FIELD2": "Golden West College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "476337",
+   "FIELD2": "Golf Academy of America-Dallas",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "434690",
+   "FIELD2": "Golf Academy of America-Myrtle Beach",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "430157",
+   "FIELD2": "Golf Academy of America-Orlando",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "430166",
+   "FIELD2": "Golf Academy of America-Phoenix",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "122366",
+   "FIELD2": "Golf Academy of America-San Diego",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "483285",
+   "FIELD2": "Graduate School USA",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "170055",
+   "FIELD2": "Grand Rapids Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "225070",
+   "FIELD2": "Grayson College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "183150",
+   "FIELD2": "Great Bay Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "180249",
+   "FIELD2": "Great Falls College Montana State University",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "213181",
+   "FIELD2": "Great Lakes Institute of Technology",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "165981",
+   "FIELD2": "Greenfield Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "218113",
+   "FIELD2": "Greenville Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "115296",
+   "FIELD2": "Grossmont College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "198622",
+   "FIELD2": "Guilford Technical Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "139995",
+   "FIELD2": "Gupton Jones College of Funeral Service",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "140003",
+   "FIELD2": "Gwinnett College-Lilburn",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "425250",
+   "FIELD2": "Gwinnett College-Sandy Springs",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "140012",
+   "FIELD2": "Gwinnett Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "102313",
+   "FIELD2": "H Councill Trenholm State Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "383084",
+   "FIELD2": "Hacienda La Puente Adult Education",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "162690",
+   "FIELD2": "Hagerstown Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "198640",
+   "FIELD2": "Halifax Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "212869",
+   "FIELD2": "Harcum College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "162706",
+   "FIELD2": "Harford Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "212878",
+   "FIELD2": "Harrisburg Area Community College-Harrisburg",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "468398",
+   "FIELD2": "Harrison College-Morrisville",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "115393",
+   "FIELD2": "Hartnell College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "383190",
+   "FIELD2": "Hawaii Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "460756",
+   "FIELD2": "Hawaii Medical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "153445",
+   "FIELD2": "Hawkeye Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "198668",
+   "FIELD2": "Haywood Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "156790",
+   "FIELD2": "Hazard Community and Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "384342",
+   "FIELD2": "Heartland Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "180276",
+   "FIELD2": "Helena College University of Montana",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "481155",
+   "FIELD2": "Helms College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "156851",
+   "FIELD2": "Henderson Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "173708",
+   "FIELD2": "Hennepin Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "410070",
+   "FIELD2": "Heritage College-Oklahoma City",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "456320",
+   "FIELD2": "Heritage College-Wichita",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "135124",
+   "FIELD2": "Heritage Institute-Ft Myers",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "191612",
+   "FIELD2": "Herkimer County Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "173735",
+   "FIELD2": "Hibbing Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "155186",
+   "FIELD2": "Highland Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "145521",
+   "FIELD2": "Highland Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "180081",
+   "FIELD2": "Highlands College of Montana Tech",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "225371",
+   "FIELD2": "Hill College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "134495",
+   "FIELD2": "Hillsborough Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "175786",
+   "FIELD2": "Hinds Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "203155",
+   "FIELD2": "Hocking College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "175810",
+   "FIELD2": "Holmes Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "166133",
+   "FIELD2": "Holyoke Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "141680",
+   "FIELD2": "Honolulu Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "156860",
+   "FIELD2": "Hopkinsville Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "218140",
+   "FIELD2": "Horry-Georgetown Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "129543",
+   "FIELD2": "Housatonic Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "225423",
+   "FIELD2": "Houston Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "458034",
+   "FIELD2": "Houston International College Cardiotech Ultrasound School",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "225520",
+   "FIELD2": "Howard College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "162779",
+   "FIELD2": "Howard Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "184995",
+   "FIELD2": "Hudson County Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "191719",
+   "FIELD2": "Hudson Valley Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "237437",
+   "FIELD2": "Huntington Junior College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "155195",
+   "FIELD2": "Hutchinson Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "372329",
+   "FIELD2": "IBMC College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "127839",
+   "FIELD2": "IBMC College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "434584",
+   "FIELD2": "Ilisagvik College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "145682",
+   "FIELD2": "Illinois Central College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "145831",
+   "FIELD2": "Illinois Valley Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "115861",
+   "FIELD2": "Imperial Valley College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "155201",
+   "FIELD2": "Independence Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "153472",
+   "FIELD2": "Indian Hills Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "450960",
+   "FIELD2": "InfoTech Career College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "115931",
+   "FIELD2": "Institute for Business and Technology",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "461218",
+   "FIELD2": "Institute of Medical Careers",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "431141",
+   "FIELD2": "Institute of Technology",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "128179",
+   "FIELD2": "Intellitec College-Colorado Springs",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "128188",
+   "FIELD2": "Intellitec College-Grand Junction",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "440776",
+   "FIELD2": "Interactive College of Technology",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "367361",
+   "FIELD2": "Interactive College of Technology",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "443696",
+   "FIELD2": "Interactive College of Technology",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "138655",
+   "FIELD2": "Interactive College of Technology-Chamblee",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "442435",
+   "FIELD2": "Interactive College of Technology-Gainesville",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "138664",
+   "FIELD2": "Interactive College of Technology-Morrow",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "367103",
+   "FIELD2": "Interactive College of Technology-Newport",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "366289",
+   "FIELD2": "InterCoast Colleges-Anaheim",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "481960",
+   "FIELD2": "InterCoast Colleges-Fairfield",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "457208",
+   "FIELD2": "InterCoast Colleges-Rancho Cordova",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "442888",
+   "FIELD2": "InterCoast Colleges-Riverside",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "443571",
+   "FIELD2": "InterCoast Colleges-West Covina",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "225779",
+   "FIELD2": "International Business College-El Paso",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "225788",
+   "FIELD2": "International Business College-El Paso",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "151467",
+   "FIELD2": "International Business College-Indianapolis",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "203289",
+   "FIELD2": "International College of Broadcasting",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "454740",
+   "FIELD2": "International Professional School of Bodywork",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "485519",
+   "FIELD2": "International Sports Sciences Association",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "173799",
+   "FIELD2": "Inver Hills Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "153524",
+   "FIELD2": "Iowa Central Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "153533",
+   "FIELD2": "Iowa Lakes Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "153630",
+   "FIELD2": "Iowa Western Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "116439",
+   "FIELD2": "Irvine Valley College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "191959",
+   "FIELD2": "Island Drafting and Technical Institute",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "198710",
+   "FIELD2": "Isothermal Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "173805",
+   "FIELD2": "Itasca Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "175829",
+   "FIELD2": "Itawamba Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "159197",
+   "FIELD2": "ITI Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "434566",
+   "FIELD2": "ITT Technical Institute-Albany",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "448460",
+   "FIELD2": "ITT Technical Institute-Dunmore",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "420404",
+   "FIELD2": "ITT Technical Institute-Getzville",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "430351",
+   "FIELD2": "ITT Technical Institute-Harrisburg",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "456418",
+   "FIELD2": "ITT Technical Institute-Huntington",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "440642",
+   "FIELD2": "ITT Technical Institute-Levittown",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "434575",
+   "FIELD2": "ITT Technical Institute-Liverpool",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "456393",
+   "FIELD2": "ITT Technical Institute-Madison",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "479558",
+   "FIELD2": "ITT Technical Institute-Marlton",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "479549",
+   "FIELD2": "ITT Technical Institute-Philadelphia",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "414841",
+   "FIELD2": "ITT Technical Institute-Pittsburgh",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "442347",
+   "FIELD2": "ITT Technical Institute-Plymouth Meeting",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "430360",
+   "FIELD2": "ITT Technical Institute-Tarentum",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "150987",
+   "FIELD2": "Ivy Tech Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "101462",
+   "FIELD2": "J F Drake State Community and Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "101471",
+   "FIELD2": "J F Ingram State Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "232414",
+   "FIELD2": "J Sargeant Reynolds Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "220400",
+   "FIELD2": "Jackson State Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "225876",
+   "FIELD2": "Jacksonville College-Main Campus",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "203678",
+   "FIELD2": "James A Rhodes State College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "101161",
+   "FIELD2": "James H Faulkner State Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "198729",
+   "FIELD2": "James Sprunt Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "191986",
+   "FIELD2": "Jamestown Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "177676",
+   "FIELD2": "Jefferson College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "156921",
+   "FIELD2": "Jefferson Community and Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "192022",
+   "FIELD2": "Jefferson Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "101499",
+   "FIELD2": "Jefferson Davis Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "107123",
+   "FIELD2": "Jefferson Regional Medical Center School of Nursing",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "101505",
+   "FIELD2": "Jefferson State Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "455196",
+   "FIELD2": "Jersey College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "419341",
+   "FIELD2": "Jna Institute of Culinary Arts",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "220464",
+   "FIELD2": "John A Gupton College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "146205",
+   "FIELD2": "John A Logan College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "101514",
+   "FIELD2": "John C Calhoun State Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "232450",
+   "FIELD2": "John Tyler Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "146278",
+   "FIELD2": "John Wood Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "213233",
+   "FIELD2": "Johnson College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "155210",
+   "FIELD2": "Johnson County Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "198774",
+   "FIELD2": "Johnston Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "146296",
+   "FIELD2": "Joliet Junior College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "175883",
+   "FIELD2": "Jones County Junior College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "170541",
+   "FIELD2": "Kalamazoo Valley Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "146348",
+   "FIELD2": "Kankakee Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "155292",
+   "FIELD2": "Kansas City Kansas Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "141796",
+   "FIELD2": "Kapiolani Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "445346",
+   "FIELD2": "Kaplan College-Lubbock",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "146366",
+   "FIELD2": "Kaskaskia College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "141802",
+   "FIELD2": "Kauai Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "225991",
+   "FIELD2": "KD Conservatory College of Film and Dramatic Arts",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "170550",
+   "FIELD2": "Kellogg Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "161192",
+   "FIELD2": "Kennebec Valley Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "461315",
+   "FIELD2": "Keweenaw Bay Ojibwa Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "210483",
+   "FIELD2": "Keystone Technical Institute",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "226019",
+   "FIELD2": "Kilgore College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "382504",
+   "FIELD2": "King's College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "153737",
+   "FIELD2": "Kirkwood Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "170587",
+   "FIELD2": "Kirtland Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "146418",
+   "FIELD2": "Kishwaukee College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "428392",
+   "FIELD2": "Klamath Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "481915",
+   "FIELD2": "L'Ecole Culinaire-Kansas City",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "456940",
+   "FIELD2": "L'Ecole Culinaire-Memphis",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "445726",
+   "FIELD2": "L'Ecole Culinaire-St Louis",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "155450",
+   "FIELD2": "Labette Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "260372",
+   "FIELD2": "Lac Courte Oreilles Ojibwa Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "213376",
+   "FIELD2": "Lackawanna College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "219143",
+   "FIELD2": "Lake Area Technical Institute",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "146506",
+   "FIELD2": "Lake Land College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "200192",
+   "FIELD2": "Lake Region State College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "173461",
+   "FIELD2": "Lake Superior College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "117195",
+   "FIELD2": "Lake Tahoe Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "203599",
+   "FIELD2": "Lakeland Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "183123",
+   "FIELD2": "Lakes Region Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "239008",
+   "FIELD2": "Lakeshore Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "127389",
+   "FIELD2": "Lamar Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "441760",
+   "FIELD2": "Lamar Institute of Technology",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "226107",
+   "FIELD2": "Lamar State College-Orange",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "226116",
+   "FIELD2": "Lamar State College-Port Arthur",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "418533",
+   "FIELD2": "Lancaster County Career and Technology Center",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "209038",
+   "FIELD2": "Lane Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "117247",
+   "FIELD2": "Laney College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "140243",
+   "FIELD2": "Lanier Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "213473",
+   "FIELD2": "Lansdale School of Business",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "170657",
+   "FIELD2": "Lansing Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "240620",
+   "FIELD2": "Laramie County Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "226134",
+   "FIELD2": "Laredo Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "366401",
+   "FIELD2": "Las Positas College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "117274",
+   "FIELD2": "Lassen Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "230418",
+   "FIELD2": "Latter-day Saints Business College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "250027",
+   "FIELD2": "Laurel Business Institute",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "215992",
+   "FIELD2": "Laurel Technical Institute",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "408729",
+   "FIELD2": "Laurel Technical Institute",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "454786",
+   "FIELD2": "Laurus College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "166407",
+   "FIELD2": "Lawrence Memorial Hospital School of Nursing",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "101569",
+   "FIELD2": "Lawson State Community College-Birmingham Campus",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "488943",
+   "FIELD2": "Le Cordon Bleu College of Culinary Arts - Orlando",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "443623",
+   "FIELD2": "Le Cordon Bleu College of Culinary Arts-Atlanta",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "364973",
+   "FIELD2": "Le Cordon Bleu College of Culinary Arts-Austin",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "452054",
+   "FIELD2": "Le Cordon Bleu College of Culinary Arts-Cambridge",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "144467",
+   "FIELD2": "Le Cordon Bleu College of Culinary Arts-Chicago",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "452063",
+   "FIELD2": "Le Cordon Bleu College of Culinary Arts-Dallas",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "445115",
+   "FIELD2": "Le Cordon Bleu College of Culinary Arts-Las Vegas",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "446835",
+   "FIELD2": "Le Cordon Bleu College of Culinary Arts-Miami",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "446844",
+   "FIELD2": "Le Cordon Bleu College of Culinary Arts-Minneapolis",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "423980",
+   "FIELD2": "Le Cordon Bleu College of Culinary Arts-Pasadena",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "375841",
+   "FIELD2": "Le Cordon Bleu College of Culinary Arts-Portland",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "452036",
+   "FIELD2": "Le Cordon Bleu College of Culinary Arts-Sacramento",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "111009",
+   "FIELD2": "Le Cordon Bleu College of Culinary Arts-San Francisco",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "452045",
+   "FIELD2": "Le Cordon Bleu College of Culinary Arts-Seattle",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "456302",
+   "FIELD2": "Le Cordon Bleu College of Culinary Arts-St Louis",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "483221",
+   "FIELD2": "Learnet Academy Inc",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "226204",
+   "FIELD2": "Lee College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "413626",
+   "FIELD2": "Leech Lake Tribal College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "141811",
+   "FIELD2": "Leeward Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "213525",
+   "FIELD2": "Lehigh Carbon Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "198817",
+   "FIELD2": "Lenoir Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "146603",
+   "FIELD2": "Lewis and Clark Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "163028",
+   "FIELD2": "Lincoln College of Technology-Columbia",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "126951",
+   "FIELD2": "Lincoln College of Technology-Denver",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "226277",
+   "FIELD2": "Lincoln College of Technology-Grand Prairie",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "151661",
+   "FIELD2": "Lincoln College of Technology-Indianapolis",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "434159",
+   "FIELD2": "Lincoln College of Technology-Marietta",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "146700",
+   "FIELD2": "Lincoln College of Technology-Melrose Park",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "221148",
+   "FIELD2": "Lincoln College of Technology-Nashville",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "146685",
+   "FIELD2": "Lincoln Land Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "213570",
+   "FIELD2": "Lincoln Technical Institute-Allentown",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "442046",
+   "FIELD2": "Lincoln Technical Institute-Center City Philadelphia",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "442037",
+   "FIELD2": "Lincoln Technical Institute-Northeast Philadelphia",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "213589",
+   "FIELD2": "Lincoln Technical Institute-Philadelphia",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "403478",
+   "FIELD2": "Lincoln Trail College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "209074",
+   "FIELD2": "Linn-Benton Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "180328",
+   "FIELD2": "Little Big Horn College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "434016",
+   "FIELD2": "Little Priest Tribal College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "227182",
+   "FIELD2": "Lone Star College System",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "117645",
+   "FIELD2": "Long Beach City College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "192509",
+   "FIELD2": "Long Island Business Institute",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "203748",
+   "FIELD2": "Lorain County Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "232575",
+   "FIELD2": "Lord Fairfax Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "117788",
+   "FIELD2": "Los Angeles City College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "117803",
+   "FIELD2": "Los Angeles County College of Nursing and Allied Health",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "117690",
+   "FIELD2": "Los Angeles Harbor College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "117867",
+   "FIELD2": "Los Angeles Mission College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "368780",
+   "FIELD2": "Los Angeles ORT College-Los Angeles Campus",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "381945",
+   "FIELD2": "Los Angeles ORT College-Van Nuys Campus",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "117706",
+   "FIELD2": "Los Angeles Pierce College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "117715",
+   "FIELD2": "Los Angeles Southwest College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "117724",
+   "FIELD2": "Los Angeles Trade Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "117733",
+   "FIELD2": "Los Angeles Valley College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "117894",
+   "FIELD2": "Los Medanos College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "198871",
+   "FIELD2": "Louisburg College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "483212",
+   "FIELD2": "Louisiana Delta Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "159407",
+   "FIELD2": "Louisiana State University-Eunice",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "235750",
+   "FIELD2": "Lower Columbia College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "363633",
+   "FIELD2": "Luna Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "101602",
+   "FIELD2": "Lurleen B Wallace Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "213659",
+   "FIELD2": "Luzerne County Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "146816",
+   "FIELD2": "MacCormac College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "170790",
+   "FIELD2": "Macomb Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "238263",
+   "FIELD2": "Madison Area Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "148399",
+   "FIELD2": "Madison Media Institute-Rockford Career College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "157304",
+   "FIELD2": "Madisonville Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "161022",
+   "FIELD2": "Maine College of Health Professions",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "129695",
+   "FIELD2": "Manchester Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "183132",
+   "FIELD2": "Manchester Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "192688",
+   "FIELD2": "Mandl School-The College of Allied Health",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "155487",
+   "FIELD2": "Manhattan Area Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "213774",
+   "FIELD2": "Manor College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "101648",
+   "FIELD2": "Marion Military Institute",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "203881",
+   "FIELD2": "Marion Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "153922",
+   "FIELD2": "Marshalltown Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "198905",
+   "FIELD2": "Martin Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "487977",
+   "FIELD2": "Martinsburg College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "166647",
+   "FIELD2": "Massachusetts Bay Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "166823",
+   "FIELD2": "Massasoit Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "454698",
+   "FIELD2": "Mayfield College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "198914",
+   "FIELD2": "Mayland Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "157331",
+   "FIELD2": "Maysville Community and Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "438212",
+   "FIELD2": "McCann School of Business & Technology",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "482927",
+   "FIELD2": "McCann School of Business & Technology",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "367112",
+   "FIELD2": "McCann School of Business & Technology",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "456579",
+   "FIELD2": "McCann School of Business & Technology",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "446880",
+   "FIELD2": "McCann School of Business & Technology",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "213871",
+   "FIELD2": "McCann School of Business & Technology",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "458450",
+   "FIELD2": "McCann School of Business & Technology",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "438221",
+   "FIELD2": "McCann School of Business & Technology",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "443395",
+   "FIELD2": "McCann School of Business & Technology",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "198923",
+   "FIELD2": "McDowell Technical Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "147004",
+   "FIELD2": "McHenry County College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "226578",
+   "FIELD2": "McLennan Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "489821",
+   "FIELD2": "Med-Life Institute-Kissimmee",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "487843",
+   "FIELD2": "Med-Life Institute-Lauderdale Lakes",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "487834",
+   "FIELD2": "Med-Life Institute-Naples",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "455336",
+   "FIELD2": "MediaTech Institute-Dallas",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "444714",
+   "FIELD2": "MedTech Institute-Atlanta Campus",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "192961",
+   "FIELD2": "Memorial College of Nursing",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "118684",
+   "FIELD2": "Mendocino College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "118718",
+   "FIELD2": "Merced College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "185509",
+   "FIELD2": "Mercer County Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "480189",
+   "FIELD2": "Mercyhurst University-North East Campus",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "244279",
+   "FIELD2": "Meridian College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "175935",
+   "FIELD2": "Meridian Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "461324",
+   "FIELD2": "Meridian Institute of Surgical Assisting",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "118772",
+   "FIELD2": "Merritt College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "105154",
+   "FIELD2": "Mesa Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "173993",
+   "FIELD2": "Mesabi Range College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "188261",
+   "FIELD2": "Mesalands Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "178110",
+   "FIELD2": "Metro Business College-Cape Girardeau",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "245430",
+   "FIELD2": "Metro Business College-Jefferson City",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "245421",
+   "FIELD2": "Metro Business College-Rolla",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "181303",
+   "FIELD2": "Metropolitan Community College Area",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "177995",
+   "FIELD2": "Metropolitan Community College-Kansas City",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "480851",
+   "FIELD2": "Miami Media School",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "369862",
+   "FIELD2": "Miami-Jacobs Career College-Columbus",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "204060",
+   "FIELD2": "Miami-Jacobs Career College-Dayton",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "200633",
+   "FIELD2": "Miami-Jacobs Career College-Independence",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "441201",
+   "FIELD2": "Miami-Jacobs Career College-Sharonville",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "449126",
+   "FIELD2": "Miami-Jacobs Career College-Springboro",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "450003",
+   "FIELD2": "Miami-Jacobs Career College-Troy",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "169655",
+   "FIELD2": "MIAT College of Technology",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "171155",
+   "FIELD2": "Mid Michigan Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "181312",
+   "FIELD2": "Mid-Plains Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "239220",
+   "FIELD2": "Mid-State Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "166887",
+   "FIELD2": "Middlesex Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "129756",
+   "FIELD2": "Middlesex Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "185536",
+   "FIELD2": "Middlesex County College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "218353",
+   "FIELD2": "Midlands Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "178183",
+   "FIELD2": "Midwest Institute",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "457536",
+   "FIELD2": "Midwestern Career College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "489760",
+   "FIELD2": "Milan Institute-Bakersfield West",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "193201",
+   "FIELD2": "Mildred Elley School-Albany Campus",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "461014",
+   "FIELD2": "Mildred Elley-New York Campus",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "180373",
+   "FIELD2": "Miles Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "449117",
+   "FIELD2": "Miller-Motte College-Cary",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "458405",
+   "FIELD2": "Miller-Motte College-Fayetteville",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "455655",
+   "FIELD2": "Miller-Motte College-Greenville",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "460817",
+   "FIELD2": "Miller-Motte College-Jacksonville",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "456205",
+   "FIELD2": "Miller-Motte College-Raleigh",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "460826",
+   "FIELD2": "Miller-Motte Technical College-Augusta",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "441025",
+   "FIELD2": "Miller-Motte Technical College-Charleston",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "443650",
+   "FIELD2": "Miller-Motte Technical College-Chattanooga",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "382771",
+   "FIELD2": "Miller-Motte Technical College-Clarksville",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "458441",
+   "FIELD2": "Miller-Motte Technical College-Columbus",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "460835",
+   "FIELD2": "Miller-Motte Technical College-Conway",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "475079",
+   "FIELD2": "Miller-Motte Technical College-Gulfport",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "233091",
+   "FIELD2": "Miller-Motte Technical College-Lynchburg",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "475060",
+   "FIELD2": "Miller-Motte Technical College-Macon",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "448664",
+   "FIELD2": "Miller-Motte Technical College-Madison",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "475194",
+   "FIELD2": "Miller-Motte Technical College-Roanoke",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "239248",
+   "FIELD2": "Milwaukee Area Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "449861",
+   "FIELD2": "Milwaukee Career College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "178217",
+   "FIELD2": "Mineral Area College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "174118",
+   "FIELD2": "Minneapolis Business College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "174136",
+   "FIELD2": "Minneapolis Community and Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "175263",
+   "FIELD2": "Minnesota State College Southeast",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "173559",
+   "FIELD2": "Minnesota State Community and Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "173638",
+   "FIELD2": "Minnesota West Community and Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "118912",
+   "FIELD2": "MiraCosta College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "118930",
+   "FIELD2": "Mission College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "176008",
+   "FIELD2": "Mississippi Delta Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "176071",
+   "FIELD2": "Mississippi Gulf Coast Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "179344",
+   "FIELD2": "Missouri State University-West Plains",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "198987",
+   "FIELD2": "Mitchell Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "219189",
+   "FIELD2": "Mitchell Technical Institute",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "178448",
+   "FIELD2": "Moberly Area Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "105206",
+   "FIELD2": "Mohave Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "193283",
+   "FIELD2": "Mohawk Valley Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "193326",
+   "FIELD2": "Monroe Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "171225",
+   "FIELD2": "Monroe County Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "171234",
+   "FIELD2": "Montcalm Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "119067",
+   "FIELD2": "Monterey Peninsula College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "163426",
+   "FIELD2": "Montgomery College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "199023",
+   "FIELD2": "Montgomery Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "214111",
+   "FIELD2": "Montgomery County Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "119137",
+   "FIELD2": "Moorpark College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "239372",
+   "FIELD2": "Moraine Park Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "147378",
+   "FIELD2": "Moraine Valley Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "460394",
+   "FIELD2": "Moreno Valley College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "127617",
+   "FIELD2": "Morgan Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "147396",
+   "FIELD2": "Morrison Institute of Technology",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "147411",
+   "FIELD2": "Morton College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "221096",
+   "FIELD2": "Motlow State Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "169275",
+   "FIELD2": "Mott Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "166957",
+   "FIELD2": "Mount Wachusett Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "232788",
+   "FIELD2": "Mountain Empire Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "237598",
+   "FIELD2": "Mountain State College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "226930",
+   "FIELD2": "Mountain View College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "444954",
+   "FIELD2": "Mountwest Community and Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "209250",
+   "FIELD2": "Mt Hood Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "119164",
+   "FIELD2": "Mt San Antonio College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "119216",
+   "FIELD2": "Mt San Jacinto Community College District",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "118198",
+   "FIELD2": "MTI College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "207236",
+   "FIELD2": "Murray State College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "171304",
+   "FIELD2": "Muskegon Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "451477",
+   "FIELD2": "MyComputerCareer.com-Columbus",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "434432",
+   "FIELD2": "Myotherapy Institute",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "119331",
+   "FIELD2": "Napa Valley College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "199087",
+   "FIELD2": "Nash Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "183141",
+   "FIELD2": "Nashua Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "221184",
+   "FIELD2": "Nashville State Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "193478",
+   "FIELD2": "Nassau Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "455868",
+   "FIELD2": "National Career College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "371964",
+   "FIELD2": "National Career Education",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "388043",
+   "FIELD2": "National College-Nashville",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "412003",
+   "FIELD2": "National Institute of Massotherapy",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "106980",
+   "FIELD2": "National Park College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "447759",
+   "FIELD2": "National Polytechnic College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "129729",
+   "FIELD2": "Naugatuck Valley Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "227146",
+   "FIELD2": "Navarro College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "181765",
+   "FIELD2": "Nebraska College of Technical Agriculture",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "181419",
+   "FIELD2": "Nebraska Indian Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "155566",
+   "FIELD2": "Neosho County Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "414939",
+   "FIELD2": "Nevada Career Institute",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "214290",
+   "FIELD2": "New Castle School of Trades",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "187903",
+   "FIELD2": "New Mexico Junior College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "187912",
+   "FIELD2": "New Mexico Military Institute",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "187994",
+   "FIELD2": "New Mexico State University-Alamogordo",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "188003",
+   "FIELD2": "New Mexico State University-Carlsbad",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "187620",
+   "FIELD2": "New Mexico State University-Dona Ana",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "188021",
+   "FIELD2": "New Mexico State University-Grants",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "447582",
+   "FIELD2": "New River Community and Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "232867",
+   "FIELD2": "New River Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "195845",
+   "FIELD2": "New York Career Institute",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "421841",
+   "FIELD2": "New York Conservatory for Dramatic Arts",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "183099",
+   "FIELD2": "NHTI-Concord's Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "193946",
+   "FIELD2": "Niagara County Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "239442",
+   "FIELD2": "Nicolet Area Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "460464",
+   "FIELD2": "Norco College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "174428",
+   "FIELD2": "Normandale Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "107460",
+   "FIELD2": "North Arkansas College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "418889",
+   "FIELD2": "North Central Institute",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "155593",
+   "FIELD2": "North Central Kansas Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "171395",
+   "FIELD2": "North Central Michigan College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "179715",
+   "FIELD2": "North Central Missouri College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "204422",
+   "FIELD2": "North Central State College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "224110",
+   "FIELD2": "North Central Texas College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "194028",
+   "FIELD2": "North Country Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "200305",
+   "FIELD2": "North Dakota State College of Science",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "136145",
+   "FIELD2": "North Florida Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "140678",
+   "FIELD2": "North Georgia Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "174376",
+   "FIELD2": "North Hennepin Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "142443",
+   "FIELD2": "North Idaho College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "154059",
+   "FIELD2": "North Iowa Area Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "227191",
+   "FIELD2": "North Lake College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "167312",
+   "FIELD2": "North Shore Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "120078",
+   "FIELD2": "North-West College-West Covina",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "214379",
+   "FIELD2": "Northampton County Area Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "239460",
+   "FIELD2": "Northcentral Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "101897",
+   "FIELD2": "Northeast Alabama Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "181491",
+   "FIELD2": "Northeast Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "154110",
+   "FIELD2": "Northeast Iowa Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "488730",
+   "FIELD2": "Northeast Lakeview College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "176169",
+   "FIELD2": "Northeast Mississippi Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "221908",
+   "FIELD2": "Northeast State Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "227225",
+   "FIELD2": "Northeast Texas Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "239488",
+   "FIELD2": "Northeast Wisconsin Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "127732",
+   "FIELD2": "Northeastern Junior College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "207290",
+   "FIELD2": "Northeastern Oklahoma A&M College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "217837",
+   "FIELD2": "Northeastern Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "167376",
+   "FIELD2": "Northern Essex Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "161484",
+   "FIELD2": "Northern Maine Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "207281",
+   "FIELD2": "Northern Oklahoma College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "232946",
+   "FIELD2": "Northern Virginia Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "174473",
+   "FIELD2": "Northland Community and Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "105349",
+   "FIELD2": "Northland Pioneer College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "160667",
+   "FIELD2": "Northshore Technical Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "367459",
+   "FIELD2": "NorthWest Arkansas Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "445948",
+   "FIELD2": "Northwest Career College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "240657",
+   "FIELD2": "Northwest College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "154129",
+   "FIELD2": "Northwest Iowa Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "155618",
+   "FIELD2": "Northwest Kansas Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "160010",
+   "FIELD2": "Northwest Louisiana Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "176178",
+   "FIELD2": "Northwest Mississippi Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "458140",
+   "FIELD2": "Northwest School of Wooden Boat Building",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "204440",
+   "FIELD2": "Northwest State Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "173115",
+   "FIELD2": "Northwest Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "420398",
+   "FIELD2": "Northwest Vista College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "101736",
+   "FIELD2": "Northwest-Shoals Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "147749",
+   "FIELD2": "Northwestern College-Chicago Campus",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "260992",
+   "FIELD2": "Northwestern College-Southwestern Campus",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "130040",
+   "FIELD2": "Northwestern Connecticut Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "130004",
+   "FIELD2": "Norwalk Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "158884",
+   "FIELD2": "Nunez Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "171535",
+   "FIELD2": "Oakland Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "147800",
+   "FIELD2": "Oakton Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "185873",
+   "FIELD2": "Ocean County College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "420431",
+   "FIELD2": "Oconee Fall Line Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "227304",
+   "FIELD2": "Odessa College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "366465",
+   "FIELD2": "Ogeechee Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "453747",
+   "FIELD2": "Ohio Business College-Hilliard",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "203739",
+   "FIELD2": "Ohio Business College-Sandusky",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "203720",
+   "FIELD2": "Ohio Business College-Sheffield",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "204662",
+   "FIELD2": "Ohio State University Agricultural Technical Institute",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "204608",
+   "FIELD2": "Ohio Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "453817",
+   "FIELD2": "Ohio Technical College-PowerSport Institute",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "204884",
+   "FIELD2": "Ohio Valley College of Technology",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "120290",
+   "FIELD2": "Ohlone College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "207449",
+   "FIELD2": "Oklahoma City Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "469629",
+   "FIELD2": "Oklahoma Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "145707",
+   "FIELD2": "Olney Central College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "407328",
+   "FIELD2": "Omaha School of Massage and Healthcare of Herzing University",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "194222",
+   "FIELD2": "Onondaga Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "120342",
+   "FIELD2": "Orange Coast College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "194240",
+   "FIELD2": "Orange County Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "218487",
+   "FIELD2": "Orangeburg Calhoun Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "423652",
+   "FIELD2": "Oregon Coast Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "454883",
+   "FIELD2": "Orion College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "214528",
+   "FIELD2": "Orleans Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "127778",
+   "FIELD2": "Otero Junior College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "204945",
+   "FIELD2": "Owens Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "247940",
+   "FIELD2": "Owensboro Community and Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "120421",
+   "FIELD2": "Oxnard College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "107549",
+   "FIELD2": "Ozarka College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "177472",
+   "FIELD2": "Ozarks Technical Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "407610",
+   "FIELD2": "PACIFIC BIBLE COLLEGE",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "488095",
+   "FIELD2": "Pacific Institute of Technology",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "246354",
+   "FIELD2": "Palo Alto College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "120953",
+   "FIELD2": "Palo Verde College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "120971",
+   "FIELD2": "Palomar College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "199263",
+   "FIELD2": "Pamlico Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "227386",
+   "FIELD2": "Panola College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "364016",
+   "FIELD2": "Paradise Valley Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "227401",
+   "FIELD2": "Paris Junior College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "147916",
+   "FIELD2": "Parkland College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "121044",
+   "FIELD2": "Pasadena City College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "186034",
+   "FIELD2": "Passaic County Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "233019",
+   "FIELD2": "Patrick Henry Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "233037",
+   "FIELD2": "Paul D Camp Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "176239",
+   "FIELD2": "Pearl River Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "221643",
+   "FIELD2": "Pellissippi State Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "459514",
+   "FIELD2": "Peloton College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "214892",
+   "FIELD2": "Penn Commercial Business/Technical School",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "214944",
+   "FIELD2": "Pennco Tech-Bristol",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "414911",
+   "FIELD2": "Pennsylvania Highlands Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "261861",
+   "FIELD2": "Pennsylvania Institute of Health and Technology",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "214582",
+   "FIELD2": "Pennsylvania Institute of Technology",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "236212",
+   "FIELD2": "Perry Technical Institute",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "107619",
+   "FIELD2": "Phillips Community College of the University of Arkansas",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "105428",
+   "FIELD2": "Phoenix College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "199324",
+   "FIELD2": "Piedmont Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "218520",
+   "FIELD2": "Piedmont Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "233116",
+   "FIELD2": "Piedmont Virginia Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "439145",
+   "FIELD2": "Pierce College-Puyallup",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "443492",
+   "FIELD2": "Pierpont Community and Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "127820",
+   "FIELD2": "Pikes Peak Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "105525",
+   "FIELD2": "Pima Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "105543",
+   "FIELD2": "Pima Medical Institute-Albuquerque",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "442967",
+   "FIELD2": "Pima Medical Institute-Albuquerque West",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "461689",
+   "FIELD2": "Pima Medical Institute-Aurora",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "434140",
+   "FIELD2": "Pima Medical Institute-Chula Vista",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "442134",
+   "FIELD2": "Pima Medical Institute-Colorado Springs",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "404912",
+   "FIELD2": "Pima Medical Institute-Denver",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "489812",
+   "FIELD2": "Pima Medical Institute-Dillon",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "456038",
+   "FIELD2": "Pima Medical Institute-East Valley",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "486813",
+   "FIELD2": "Pima Medical Institute-El Paso",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "460136",
+   "FIELD2": "Pima Medical Institute-Houston",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "445230",
+   "FIELD2": "Pima Medical Institute-Las Vegas",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "260691",
+   "FIELD2": "Pima Medical Institute-Mesa",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "486822",
+   "FIELD2": "Pima Medical Institute-Phoenix",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "449074",
+   "FIELD2": "Pima Medical Institute-Renton",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "368629",
+   "FIELD2": "Pima Medical Institute-Seattle",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "174570",
+   "FIELD2": "Pine Technical & Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "367097",
+   "FIELD2": "Pinnacle Career Institute-Lawrence",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "453109",
+   "FIELD2": "Pinnacle Career Institute-North Kansas City",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "177302",
+   "FIELD2": "Pinnacle Career Institute-South Kansas City",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "199333",
+   "FIELD2": "Pitt Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "216782",
+   "FIELD2": "Pittsburgh Career Institute",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "215381",
+   "FIELD2": "Pittsburgh Institute of Aeronautics",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "215390",
+   "FIELD2": "Pittsburgh Institute of Mortuary Science Inc",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "215415",
+   "FIELD2": "Pittsburgh Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "207625",
+   "FIELD2": "Platt College-Central OKC",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "428143",
+   "FIELD2": "Platt College-Lawton",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "447379",
+   "FIELD2": "Platt College-Moore",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "190451",
+   "FIELD2": "Pomeroy College of Nursing at Crouse Hospital",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "121363",
+   "FIELD2": "Porterville College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "209746",
+   "FIELD2": "Portland Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "148007",
+   "FIELD2": "Prairie State College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "155715",
+   "FIELD2": "Pratt Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "163657",
+   "FIELD2": "Prince George's Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "101958",
+   "FIELD2": "Prince Institute-Southeast",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "194611",
+   "FIELD2": "Professional Business College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "437750",
+   "FIELD2": "Professional Golfers Career College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "454908",
+   "FIELD2": "Professional Hands Institute",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "205054",
+   "FIELD2": "Professional Skills Institute",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "107664",
+   "FIELD2": "Pulaski Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "167525",
+   "FIELD2": "Quincy College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "130217",
+   "FIELD2": "Quinebaug Valley Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "167534",
+   "FIELD2": "Quinsigamond Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "174604",
+   "FIELD2": "Rainy River Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "199421",
+   "FIELD2": "Randolph Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "227687",
+   "FIELD2": "Ranger College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "233310",
+   "FIELD2": "Rappahannock Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "186645",
+   "FIELD2": "Raritan Valley Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "215585",
+   "FIELD2": "Reading Area Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "207069",
+   "FIELD2": "Redlands Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "117052",
+   "FIELD2": "Reedley College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "105659",
+   "FIELD2": "Refrigeration School Inc",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "101994",
+   "FIELD2": "Reid State Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "440271",
+   "FIELD2": "Remington College-Baton Rouge Campus",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "375416",
+   "FIELD2": "Remington College-Cleveland Campus",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "457174",
+   "FIELD2": "Remington College-Columbia Campus",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "380094",
+   "FIELD2": "Remington College-Houston Campus",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "451857",
+   "FIELD2": "Remington College-Houston Southeast Campus",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "160524",
+   "FIELD2": "Remington College-Lafayette Campus",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "438869",
+   "FIELD2": "Remington College-Little Rock Campus",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "366535",
+   "FIELD2": "Remington College-Mobile Campus",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "445249",
+   "FIELD2": "Remington College-Nashville Campus",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "148256",
+   "FIELD2": "Rend Lake College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "233338",
+   "FIELD2": "Richard Bland College of William and Mary",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "227766",
+   "FIELD2": "Richland College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "148292",
+   "FIELD2": "Richland Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "199449",
+   "FIELD2": "Richmond Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "175236",
+   "FIELD2": "Ridgewater College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "105668",
+   "FIELD2": "Rio Salado College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "436304",
+   "FIELD2": "River Parishes Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "183114",
+   "FIELD2": "River Valley Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "173063",
+   "FIELD2": "Riverland Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "121901",
+   "FIELD2": "Riverside City College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "233408",
+   "FIELD2": "Riverside College of Health Careers",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "221397",
+   "FIELD2": "Roane State Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "199467",
+   "FIELD2": "Roanoke-Chowan Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "199476",
+   "FIELD2": "Robeson Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "174738",
+   "FIELD2": "Rochester Community and Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "148380",
+   "FIELD2": "Rock Valley College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "199485",
+   "FIELD2": "Rockingham Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "195058",
+   "FIELD2": "Rockland Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "209940",
+   "FIELD2": "Rogue Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "207670",
+   "FIELD2": "Rose State College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "439899",
+   "FIELD2": "Rosedale Bible College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "215682",
+   "FIELD2": "Rosedale Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "452081",
+   "FIELD2": "Ross College-Sylvania",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "480550",
+   "FIELD2": "Ross Medical Education Center-Bowling Green",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "484349",
+   "FIELD2": "Ross Medical Education Center-Evansville",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "456506",
+   "FIELD2": "Ross Medical Education Center-Fort Wayne",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "460109",
+   "FIELD2": "Ross Medical Education Center-Granger",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "481863",
+   "FIELD2": "Ross Medical Education Center-Kokomo",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "183877",
+   "FIELD2": "Rowan College at Burlington County",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "184791",
+   "FIELD2": "Rowan College at Gloucester County",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "199494",
+   "FIELD2": "Rowan-Cabarrus Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "167631",
+   "FIELD2": "Roxbury Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "449506",
+   "FIELD2": "SABER College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "122180",
+   "FIELD2": "Sacramento City College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "122205",
+   "FIELD2": "Saddleback College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "476948",
+   "FIELD2": "SAE Institute of Technology-Atlanta",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "485139",
+   "FIELD2": "SAE Institute of Technology-Chicago",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "446525",
+   "FIELD2": "SAE Institute of Technology-Nashville",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "410520",
+   "FIELD2": "Sage College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "441070",
+   "FIELD2": "Saginaw Chippewa Tribal College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "195702",
+   "FIELD2": "Saint Elizabeth College of Nursing",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "179308",
+   "FIELD2": "Saint Louis Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "486424",
+   "FIELD2": "Saint Michael College of Allied Health",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "175041",
+   "FIELD2": "Saint Paul College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "186469",
+   "FIELD2": "Salem Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "155830",
+   "FIELD2": "Salina Area Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "230746",
+   "FIELD2": "Salt Lake Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "466523",
+   "FIELD2": "Salter College-Chicopee",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "167738",
+   "FIELD2": "Salter College-West Boylston",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "195289",
+   "FIELD2": "Samaritan Hospital School of Nursing",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "199625",
+   "FIELD2": "Sampson Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "227924",
+   "FIELD2": "San Antonio College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "123527",
+   "FIELD2": "San Bernardino Valley College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "122339",
+   "FIELD2": "San Diego City College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "122384",
+   "FIELD2": "San Diego Miramar College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "227979",
+   "FIELD2": "San Jacinto Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "122658",
+   "FIELD2": "San Joaquin Delta College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "122685",
+   "FIELD2": "San Joaquin Valley College-Visalia",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "122746",
+   "FIELD2": "San Jose City College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "188100",
+   "FIELD2": "San Juan College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "199634",
+   "FIELD2": "Sandhills Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "420495",
+   "FIELD2": "Sanford-Brown College-Atlanta",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "404514",
+   "FIELD2": "Sanford-Brown College-Dallas",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "404499",
+   "FIELD2": "Sanford-Brown College-Houston",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "385008",
+   "FIELD2": "Sanford-Brown Institute-Ft Lauderdale",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "404505",
+   "FIELD2": "Sanford-Brown Institute-Jacksonville",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "122889",
+   "FIELD2": "Santa Barbara City College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "188137",
+   "FIELD2": "Santa Fe Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "123013",
+   "FIELD2": "Santa Rosa Junior College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "399212",
+   "FIELD2": "Santiago Canyon College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "148672",
+   "FIELD2": "Sauk Valley Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "140942",
+   "FIELD2": "Savannah Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "192156",
+   "FIELD2": "SBI Campus-An Affiliate of Sanford-Brown",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "195322",
+   "FIELD2": "Schenectady County Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "377218",
+   "FIELD2": "School of Automotive Machinists & Technology",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "105747",
+   "FIELD2": "Scottsdale Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "207740",
+   "FIELD2": "Seminole State College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "475839",
+   "FIELD2": "Sessions College for Professional Design",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "155858",
+   "FIELD2": "Seward County Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "148821",
+   "FIELD2": "Shawnee Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "102067",
+   "FIELD2": "Shelton State Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "240666",
+   "FIELD2": "Sheridan College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "236610",
+   "FIELD2": "Shoreline Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "107840",
+   "FIELD2": "Shorter College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "123341",
+   "FIELD2": "Sierra College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "205470",
+   "FIELD2": "Sinclair Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "219408",
+   "FIELD2": "Sisseton Wahpeton College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "102076",
+   "FIELD2": "Snead State Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "123563",
+   "FIELD2": "Solano Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "459356",
+   "FIELD2": "SOLEX College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "157711",
+   "FIELD2": "Somerset Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "488077",
+   "FIELD2": "Sonoran Desert Institute",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "107974",
+   "FIELD2": "South Arkansas Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "173911",
+   "FIELD2": "South Central College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "160913",
+   "FIELD2": "South Central Louisiana Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "123642",
+   "FIELD2": "South Coast College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "141006",
+   "FIELD2": "South Georgia Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "216083",
+   "FIELD2": "South Hills School of Business & Technology",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "434061",
+   "FIELD2": "South Louisiana Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "105792",
+   "FIELD2": "South Mountain Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "197850",
+   "FIELD2": "South Piedmont Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "228158",
+   "FIELD2": "South Plains College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "236656",
+   "FIELD2": "South Puget Sound Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "149365",
+   "FIELD2": "South Suburban College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "156338",
+   "FIELD2": "Southcentral Kentucky Community and Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "107637",
+   "FIELD2": "Southeast Arkansas College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "181640",
+   "FIELD2": "Southeast Community College Area",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "157739",
+   "FIELD2": "Southeast Kentucky Community and Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "219426",
+   "FIELD2": "Southeast Technical Institute",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "443270",
+   "FIELD2": "Southeastern College-Jacksonville",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "428170",
+   "FIELD2": "Southeastern College-West Palm Beach",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "199722",
+   "FIELD2": "Southeastern Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "154378",
+   "FIELD2": "Southeastern Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "148937",
+   "FIELD2": "Southeastern Illinois College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "368911",
+   "FIELD2": "Southeastern Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "107992",
+   "FIELD2": "Southern Arkansas University Tech",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "139986",
+   "FIELD2": "Southern Crescent Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "161545",
+   "FIELD2": "Southern Maine Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "487162",
+   "FIELD2": "Southern Regional Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "205966",
+   "FIELD2": "Southern State Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "446552",
+   "FIELD2": "Southern Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "251260",
+   "FIELD2": "Southern Union State Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "160649",
+   "FIELD2": "Southern University at Shreveport",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "237817",
+   "FIELD2": "Southern West Virginia Community and Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "233082",
+   "FIELD2": "Southside Regional Medical Center Professional Schools",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "233639",
+   "FIELD2": "Southside Virginia Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "382911",
+   "FIELD2": "Southwest Collegiate Institute for the Deaf",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "442879",
+   "FIELD2": "Southwest Institute of Healing Arts",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "176354",
+   "FIELD2": "Southwest Mississippi Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "221485",
+   "FIELD2": "Southwest Tennessee Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "228316",
+   "FIELD2": "Southwest Texas Junior College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "233648",
+   "FIELD2": "Southwest Virginia Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "239910",
+   "FIELD2": "Southwest Wisconsin Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "123800",
+   "FIELD2": "Southwestern College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "199731",
+   "FIELD2": "Southwestern Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "154396",
+   "FIELD2": "Southwestern Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "143215",
+   "FIELD2": "Southwestern Illinois College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "188216",
+   "FIELD2": "Southwestern Indian Polytechnic Institute",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "172307",
+   "FIELD2": "Southwestern Michigan College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "210155",
+   "FIELD2": "Southwestern Oregon Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "160579",
+   "FIELD2": "SOWELA Technical Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "126605",
+   "FIELD2": "Spartan College of Aeronautics and Technology",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "490009",
+   "FIELD2": "Spartan College of Aeronautics and Technology",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "218830",
+   "FIELD2": "Spartanburg Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "218821",
+   "FIELD2": "Spartanburg Methodist College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "433563",
+   "FIELD2": "Spencerian College-Lexington",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "236692",
+   "FIELD2": "Spokane Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "148991",
+   "FIELD2": "Spoon River College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "167905",
+   "FIELD2": "Springfield Technical Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "262031",
+   "FIELD2": "St Charles Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "172291",
+   "FIELD2": "St Clair County Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "174756",
+   "FIELD2": "St Cloud Technical and Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "183248",
+   "FIELD2": "St Joseph School of Nursing",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "195191",
+   "FIELD2": "St Joseph's College of Nursing at St Joseph's Hospital Health Center",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "179511",
+   "FIELD2": "St Louis College of Health Careers-St Louis",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "189811",
+   "FIELD2": "St Paul's School of Nursing-Queens",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "195784",
+   "FIELD2": "St Paul's School of Nursing-Staten Island",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "227854",
+   "FIELD2": "St Philip's College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "483814",
+   "FIELD2": "Standard Healthcare Services-College of Nursing",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "199740",
+   "FIELD2": "Stanly Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "205841",
+   "FIELD2": "Stark State College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "179539",
+   "FIELD2": "State Fair Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "177977",
+   "FIELD2": "State Technical College of Missouri",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "448600",
+   "FIELD2": "Stautzenberger College-Brecksville",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "205887",
+   "FIELD2": "Stautzenberger College-Maumee",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "475565",
+   "FIELD2": "Stella and Charles Guttman Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "366340",
+   "FIELD2": "Stone Child College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "366395",
+   "FIELD2": "Suffolk County Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "433466",
+   "FIELD2": "Sullivan and Cogliano Training Center",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "195988",
+   "FIELD2": "Sullivan County Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "208512",
+   "FIELD2": "Sumner College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "487311",
+   "FIELD2": "Sunstate Academy-Jones Technical Institute",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "189547",
+   "FIELD2": "SUNY Broome Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "197294",
+   "FIELD2": "SUNY Westchester Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "199768",
+   "FIELD2": "Surry Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "247603",
+   "FIELD2": "Sussex County Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "196389",
+   "FIELD2": "Swedish Institute a College of Health Sciences",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "124113",
+   "FIELD2": "Taft College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "228547",
+   "FIELD2": "Tarrant County College District",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "149310",
+   "FIELD2": "Taylor Business Institute",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "449524",
+   "FIELD2": "Taylor College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "196477",
+   "FIELD2": "Technical Career Institutes",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "217712",
+   "FIELD2": "Technical College of the Lowcountry",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "228608",
+   "FIELD2": "Temple College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "206011",
+   "FIELD2": "Terra State Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "228699",
+   "FIELD2": "Texarkana College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "441487",
+   "FIELD2": "Texas County Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "227377",
+   "FIELD2": "Texas Southmost College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "487320",
+   "FIELD2": "Texas State Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "216296",
+   "FIELD2": "Thaddeus Stevens College of Technology",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "365055",
+   "FIELD2": "The Art Institute of New York City",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "437635",
+   "FIELD2": "The College of Health Care Professions-Austin",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "480833",
+   "FIELD2": "The College of Health Care Professions-Fort Worth",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "449250",
+   "FIELD2": "The College of Health Care Professions-San Antonio",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "434672",
+   "FIELD2": "The Community College of Baltimore County",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "161208",
+   "FIELD2": "The Landing School",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "214023",
+   "FIELD2": "The Workforce Institute's City College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "486123",
+   "FIELD2": "Theatre of Arts",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "233754",
+   "FIELD2": "Thomas Nelson Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "179645",
+   "FIELD2": "Three Rivers College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "129808",
+   "FIELD2": "Three Rivers Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "233772",
+   "FIELD2": "Tidewater Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "420723",
+   "FIELD2": "Tillamook Bay Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "442781",
+   "FIELD2": "Tohono O'Odham Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "196565",
+   "FIELD2": "Tompkins Cortland Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "210234",
+   "FIELD2": "Treasure Valley Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "199795",
+   "FIELD2": "Tri-County Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "218885",
+   "FIELD2": "Tri-County Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "448859",
+   "FIELD2": "Triangle Tech Inc-Bethlehem",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "216454",
+   "FIELD2": "Triangle Tech Inc-Dubois",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "216427",
+   "FIELD2": "Triangle Tech Inc-Erie",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "216445",
+   "FIELD2": "Triangle Tech Inc-Greensburg",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "216436",
+   "FIELD2": "Triangle Tech Inc-Pittsburgh",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "443377",
+   "FIELD2": "Triangle Tech Inc-Sunbury",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "218894",
+   "FIELD2": "Trident Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "128258",
+   "FIELD2": "Trinidad State Junior College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "225308",
+   "FIELD2": "Trinity Valley Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "149532",
+   "FIELD2": "Triton College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "182500",
+   "FIELD2": "Truckee Meadows Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "206224",
+   "FIELD2": "Trumbull Business College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "207935",
+   "FIELD2": "Tulsa Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "207962",
+   "FIELD2": "Tulsa Welding School-Tulsa",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "130606",
+   "FIELD2": "Tunxis Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "196699",
+   "FIELD2": "Ulster County Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "441371",
+   "FIELD2": "Ultimate Medical Academy-Clearwater",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "450173",
+   "FIELD2": "Ultimate Medical Academy-Tampa",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "481252",
+   "FIELD2": "Ultrasound Medical Institute",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "210270",
+   "FIELD2": "Umpqua Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "187198",
+   "FIELD2": "Union County College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "446589",
+   "FIELD2": "Universal Career School",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "446598",
+   "FIELD2": "Universal College of Healing Arts",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "106041",
+   "FIELD2": "Universal Technical Institute of Arizona Inc",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "200846",
+   "FIELD2": "University of Akron Wayne College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "107743",
+   "FIELD2": "University of Arkansas Community College Rich Mountain",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "106999",
+   "FIELD2": "University of Arkansas Community College-Batesville",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "107725",
+   "FIELD2": "University of Arkansas Community College-Hope",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "107585",
+   "FIELD2": "University of Arkansas Community College-Morrilton",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "187958",
+   "FIELD2": "University of New Mexico-Gallup Campus",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "187976",
+   "FIELD2": "University of New Mexico-Los Alamos Campus",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "188225",
+   "FIELD2": "University of New Mexico-Taos Campus",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "188049",
+   "FIELD2": "University of New Mexico-Valencia County Campus",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "215309",
+   "FIELD2": "University of Pittsburgh-Titusville",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "218672",
+   "FIELD2": "University of South Carolina-Lancaster",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "218681",
+   "FIELD2": "University of South Carolina-Salkehatchie",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "218690",
+   "FIELD2": "University of South Carolina-Sumter",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "218706",
+   "FIELD2": "University of South Carolina-Union",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "429128",
+   "FIELD2": "Urban College of Boston",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "197081",
+   "FIELD2": "Utica School of Commerce",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "449445",
+   "FIELD2": "Valley College of Medical Careers",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "377652",
+   "FIELD2": "Valley College-Beckley",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "377661",
+   "FIELD2": "Valley College-Martinsburg",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "377670",
+   "FIELD2": "Valley College-Princeton",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "216551",
+   "FIELD2": "Valley Forge Military College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "486257",
+   "FIELD2": "Valor Christian College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "199838",
+   "FIELD2": "Vance-Granville Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "476577",
+   "FIELD2": "Vantage College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "455567",
+   "FIELD2": "Vatterott College-Appling Farms",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "245342",
+   "FIELD2": "Vatterott College-Berkeley",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "442408",
+   "FIELD2": "Vatterott College-Cleveland",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "373058",
+   "FIELD2": "Vatterott College-Des Moines",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "440873",
+   "FIELD2": "Vatterott College-Dividend",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "481988",
+   "FIELD2": "Vatterott College-ex'treme Institute by Nelly-St Louis",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "480514",
+   "FIELD2": "Vatterott College-Fairview Heights",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "404374",
+   "FIELD2": "Vatterott College-Joplin",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "404383",
+   "FIELD2": "Vatterott College-Kansas City",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "437060",
+   "FIELD2": "Vatterott College-Oklahoma City",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "148140",
+   "FIELD2": "Vatterott College-Quincy",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "404365",
+   "FIELD2": "Vatterott College-Springfield",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "445559",
+   "FIELD2": "Vatterott College-St Charles",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "436182",
+   "FIELD2": "Vatterott College-St Joseph",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "440882",
+   "FIELD2": "Vatterott College-Tulsa",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "440891",
+   "FIELD2": "Vatterott College-Wichita",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "125028",
+   "FIELD2": "Ventura College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "175157",
+   "FIELD2": "Vermilion Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "229504",
+   "FIELD2": "Vernon College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "213914",
+   "FIELD2": "Vet Tech Institute",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "223472",
+   "FIELD2": "Vet Tech Institute of Houston",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "125091",
+   "FIELD2": "Victor Valley College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "229540",
+   "FIELD2": "Victoria College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "458256",
+   "FIELD2": "Virginia College-Augusta",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "441928",
+   "FIELD2": "Virginia College-Austin",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "460774",
+   "FIELD2": "Virginia College-Baton Rouge",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "450191",
+   "FIELD2": "Virginia College-Biloxi",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "450289",
+   "FIELD2": "Virginia College-Chattanooga",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "458593",
+   "FIELD2": "Virginia College-Columbia",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "475370",
+   "FIELD2": "Virginia College-Columbus",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "480107",
+   "FIELD2": "Virginia College-Florence",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "484978",
+   "FIELD2": "Virginia College-Fort Pierce",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "480815",
+   "FIELD2": "Virginia College-Greensboro",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "454625",
+   "FIELD2": "Virginia College-Greenville",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "441919",
+   "FIELD2": "Virginia College-Jackson",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "455716",
+   "FIELD2": "Virginia College-Jacksonville",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "475617",
+   "FIELD2": "Virginia College-Knoxville",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "483319",
+   "FIELD2": "Virginia College-Lubbock",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "460844",
+   "FIELD2": "Virginia College-Macon",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "445090",
+   "FIELD2": "Virginia College-Mobile",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "452115",
+   "FIELD2": "Virginia College-Montgomery",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "389727",
+   "FIELD2": "Virginia College-Pensacola",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "460923",
+   "FIELD2": "Virginia College-Richmond",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "475352",
+   "FIELD2": "Virginia College-Savannah",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "475866",
+   "FIELD2": "Virginia College-Shreveport",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "460853",
+   "FIELD2": "Virginia College-Spartanburg",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "475592",
+   "FIELD2": "Virginia College-Tulsa",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "233903",
+   "FIELD2": "Virginia Highlands Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "206394",
+   "FIELD2": "Virginia Marti College of Art and Design",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "233949",
+   "FIELD2": "Virginia Western Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "365204",
+   "FIELD2": "Vista College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "222053",
+   "FIELD2": "Volunteer State Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "403487",
+   "FIELD2": "Wabash Valley College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "199856",
+   "FIELD2": "Wake Technical Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "236887",
+   "FIELD2": "Walla Walla Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "222062",
+   "FIELD2": "Walters State Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "245625",
+   "FIELD2": "Warren County Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "161581",
+   "FIELD2": "Washington County Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "206446",
+   "FIELD2": "Washington State Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "172617",
+   "FIELD2": "Washtenaw Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "149727",
+   "FIELD2": "Waubonsee Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "240125",
+   "FIELD2": "Waukesha County Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "486594",
+   "FIELD2": "Wave Leadership College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "199892",
+   "FIELD2": "Wayne Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "172635",
+   "FIELD2": "Wayne County Community College District",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "229799",
+   "FIELD2": "Weatherford College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "447999",
+   "FIELD2": "WellSpring School of Allied Health-Kansas City",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "470047",
+   "FIELD2": "WellSpring School of Allied Health-Lawrence",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "236975",
+   "FIELD2": "Wenatchee Valley College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "179919",
+   "FIELD2": "Wentworth Military Academy and College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "441229",
+   "FIELD2": "West Coast Ultrasound Institute",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "139278",
+   "FIELD2": "West Georgia Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "125462",
+   "FIELD2": "West Hills College-Coalinga",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "448594",
+   "FIELD2": "West Hills College-Lemoore",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "157483",
+   "FIELD2": "West Kentucky Community and Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "172671",
+   "FIELD2": "West Shore Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "125499",
+   "FIELD2": "West Valley College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "237978",
+   "FIELD2": "West Virginia Business College-Wheeling",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "442383",
+   "FIELD2": "West Virginia Junior College-Bridgeport",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "237987",
+   "FIELD2": "West Virginia Junior College-Charleston",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "237996",
+   "FIELD2": "West Virginia Junior College-Morgantown",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "238014",
+   "FIELD2": "West Virginia Northern Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "219480",
+   "FIELD2": "Western Dakota Technical Institute",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "154572",
+   "FIELD2": "Western Iowa Tech Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "181817",
+   "FIELD2": "Western Nebraska Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "208035",
+   "FIELD2": "Western Oklahoma State College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "199908",
+   "FIELD2": "Western Piedmont Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "224679",
+   "FIELD2": "Western Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "240170",
+   "FIELD2": "Western Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "224660",
+   "FIELD2": "Western Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "229832",
+   "FIELD2": "Western Texas College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "240693",
+   "FIELD2": "Western Wyoming Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "216825",
+   "FIELD2": "Westmoreland County Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "229841",
+   "FIELD2": "Wharton County Junior College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "237039",
+   "FIELD2": "Whatcom Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "434751",
+   "FIELD2": "White Earth Tribal and Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "183105",
+   "FIELD2": "White Mountains Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "156107",
+   "FIELD2": "Wichita Area Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "156134",
+   "FIELD2": "Wichita Technical Institute",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "199926",
+   "FIELD2": "Wilkes Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "222105",
+   "FIELD2": "William Moore College of Technology",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "149842",
+   "FIELD2": "William Rainey Harper College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "218955",
+   "FIELD2": "Williamsburg Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "200341",
+   "FIELD2": "Williston State College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "199953",
+   "FIELD2": "Wilson Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "141990",
+   "FIELD2": "Windward Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "141255",
+   "FIELD2": "Wiregrass Georgia Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "240198",
+   "FIELD2": "Wisconsin Indianhead Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "197522",
+   "FIELD2": "Wood Tobe-Coburn School",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "455512",
+   "FIELD2": "Woodland Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "164313",
+   "FIELD2": "Wor-Wic Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "369455",
+   "FIELD2": "Worsham College of Mortuary Science",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "441089",
+   "FIELD2": "Wyotech-Blairsville",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "132268",
+   "FIELD2": "Wyotech-Daytona",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "240718",
+   "FIELD2": "Wyotech-Laramie",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "234377",
+   "FIELD2": "Wytheville Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "106148",
+   "FIELD2": "Yavapai College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "420440",
+   "FIELD2": "York County Community College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "218991",
+   "FIELD2": "York Technical College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "375939",
+   "FIELD2": "YTI Career Institute-Altoona",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "217077",
+   "FIELD2": "YTI Career Institute-York",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "126119",
+   "FIELD2": "Yuba College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "204255",
+   "FIELD2": "Zane State College",
+   "FIELD3": "40",
+   "FIELD4": ""
+ }
+]
