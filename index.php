@@ -97,9 +97,9 @@ if(isset($_POST['delete'])) {
                      <p>Show off your skills by building your sports profile. Add a new profile for each of your sports so coaches can see your talent. Don\'t forget to upload photos and videos of yourself playing!</p>
                      <p><a class="btn btn-lg btn-primary" href="profile.php" role="button">Go to Profile</a></p>'; 
                   } else if($user['coach'] == 1) {
-                    echo '<h1>Build Your Profile.</h1>
-                    <p>As a coach you can edit your profile by favoriting students and creating your messages to send to students.</p>
-                    <p><a class="btn btn-lg btn-primary" href="cprofile.php" role="button">Go to Profile</a></p>';
+                    echo '<h1>Check Your Favorites.</h1>
+                    <p>As a coach you can choose students to add to your favorites list. This list allows you to have quick access to your best athletes.</p>
+                    <p><a class="btn btn-lg btn-primary" href="favorites.php" role="button">Go to Favorites</a></p>';
                   }
                 } else {
                   echo '<h1>Create an Account.</h1>
@@ -130,9 +130,9 @@ if(isset($_POST['delete'])) {
                       $user = mysql_fetch_array($res);
                         
                       if($user['coach'] == 0 && $user['admin'] == 0) {
-                        echo '<h1>Check your Notifications.</h1>
-                        <p>Notifications allows you to see when coaches want to contact you. This is very different then other recruiting sites because it adds a more intimate connection between the student and the coach before the season even starts.</p>
-                        <p><a class="btn btn-lg btn-primary" href="notifications.php" role="button">Go to Notifications</a></p>'; 
+                        echo '<h1>Who Are We?</h1>
+                        <p>Learn more about who build this site and what we strive to do down below.</p>
+                        <p><a class="btn btn-lg btn-primary" href="#cmel" role="button">Learn More</a></p>'; 
                       } else if($user['coach'] == 1) {
                         echo '<h1>Contact Us.</h1>
                         <p>Are you a coach looking to add your college to our list? Do you have any questions, comments, or concerned with our app? Just let us know through the contact page.</p>
@@ -167,7 +167,7 @@ if(isset($_POST['delete'])) {
 
       <hr class="featurette-divider">
 
-      <div class="row featurette" style="margin-top: -80px;">
+      <div class="row featurette" style="margin-top: -80px;" id="cmel">
         <div class="col-md-7">
           <h2 class="featurette-heading">Helping Coaches<span class="text-muted"></span></h2>
           
@@ -221,7 +221,7 @@ if(isset($_POST['delete'])) {
 		</div><!-- /.col-lg-4 -->
 		<br>
         <div class="col-lg-4">
-          <img class="rounded-circle" src="img/jake.PNG" alt="Generic placeholder image" width="140" height="140">
+          <img class="rounded-circle" src="img/jake.jpg" alt="Generic placeholder image" width="140" height="140">
           <br>
 		  <h2>HTML Wizard</h2>
 		   <h3>Jake Toner</h3>

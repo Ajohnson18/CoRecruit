@@ -100,7 +100,7 @@ if(isset($_POST['submit'])) {
 										  
 											for($i = 0; $i < sizeof($sports_array)-1; $i++) {
 												echo '<li class="nav-item" style="margin-bottom: 10px;">
-														<a class="nav-link" href="colleges.php?sport='.$i.'" id="sportsnum'.$i.'">'.$sports_array[$i].'</a>
+														<a class="nav-link" href="colleges.php?sport='.$i.'#sched" id="sportsnum'.$i.'">'.$sports_array[$i].'</a>
 													</li>';
 											}
 											
@@ -108,7 +108,7 @@ if(isset($_POST['submit'])) {
 										echo '</ul>
 										</nav>
 
-										<main class="col-sm-9 offset-sm-3 col-md-10 offset-md-2 pt-3" style="margin-top: -200px;">
+										<main class="col-sm-9 offset-sm-3 col-md-10 offset-md-2 pt-3" style="position: absolute; top: 0;">
 										  <h1>Administration</h1>
 
 										  <section class="row text-center placeholders" style="margin-top: 50px;">
@@ -151,7 +151,7 @@ if(isset($_POST['submit'])) {
 												<br>';
 											}
 
-											echo '<p class="lead-text" style="margin: 0 auto">Click <a href="'.$college['directory'].'">HERE</a> to view the entire staff directory.</p>
+											echo '<p class="lead-text" id="sched" style="margin: 0 auto">Click <a href="'.$college['directory'].'">HERE</a> to view the entire staff directory.</p>
 										  </section>';
 								
 										if(isset($_GET['sport'])) {  
@@ -160,7 +160,7 @@ if(isset($_POST['submit'])) {
 										$url = $schedule_array[$index];
 										
 											if($url != "") {
-											echo ' <h2 style="margin-top: 50px;">Schedule</h2>
+											echo ' <h2 style="margin-top: 50px;" >Schedule</h2>
 												<iframe scrolling="yes" height="800" src="'.$url.'" style="width: 95%; margin: 0 auto;"></iframe>
 												';
 											}	
@@ -179,8 +179,6 @@ if(isset($_POST['submit'])) {
 									  </div>
 									</div>
 
-									<script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
-									<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>									</div>
 								';
 						} else {
 							echo '
@@ -201,7 +199,6 @@ if(isset($_POST['submit'])) {
 		<p class="float-right"><a href="#">Back to top</a></p>
 		<p>&copy; 2017 CoRecruit, Inc. &middot; <a href="privacy.php">Privacy</a> &middot; <a href="terms.php">Terms</a></p>
 	</footer>
-	<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 	<script>
 
         $(document).ready(function() { 

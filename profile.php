@@ -138,6 +138,11 @@ if(isset($_POST['deletepost'])) {
                     <td id="td6"><?php if($user['profileimg'] != "") {echo $user['profileimg'];}else{ echo "Default"; }; ?></td>
                     <td style="color: #001f3f" class="hoverg" id="td60"><i class="fa fa-pencil" aria-hidden="true" onclick="edit(6, <?php echo $_COOKIE['userid']; ?>)" style="color: #001f3f;"></i></td>
                     </tr>
+					<tr>
+                    <td><i class="fa fa-lock" aria-hidden="true"></i> <strong>Change Password:</strong></td>
+                    <td id="td7"></td>
+                    <td style="color: #001f3f" class="hoverg" id="td70"><i class="fa fa-pencil" onclick="location.href = 'changepass.php'" aria-hidden="true" style="color: #001f3f;"></i></td>
+                    </tr>
                 </tbody>
                 </table>
 				</font>

@@ -32,7 +32,11 @@ if(isset($_POST['deletefav'])) {
     <main role="main">
 
         <div style="margin: 50px auto; width: 700px;">
-
+        <hr>
+        <center>
+        <h1 class="display-3">Favorites</h1>
+        </center>
+        <hr>
         <?php
 
             $uid = $_COOKIE['userid'];    
@@ -54,7 +58,7 @@ if(isset($_POST['deletefav'])) {
                     <div class=\"card-block\">
                     <div class=\"row\">
                         <div class=\"col\">
-                            <img src=\"upload/".$user['profileimg']."\" style=\"width: 75%; border-radius: 100%; margin: 0 auto;\">
+                            <img src=\"upload/".$user['profileimg']."\" style=\"width: 100px; height: 100px; border-radius: 100%; margin: 10% auto;\">
                         </div>
                         <div class=\"col-9\">
                         <h4 class=\"card-title\">".$user['first_name']." ".$user['last_name']."</h4>

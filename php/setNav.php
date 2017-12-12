@@ -33,10 +33,6 @@
 								<a class=\"nav-link\" href=\"colleges.php\">Colleges</a>
 							</li>";
 
-						echo "<li class=\"nav-item\" id='notificationli'>
-							<a class=\"nav-link\" href=\"notifications.php\">Notifications</a>
-						</li>";
-
 						echo '</ul>
 							<form class="form-inline mt-2 mt-md-0" action="index.php" method="post">
 							  <p class="display-2" style="color: white; font-size: 27px; margin: -3px 15px 0 0;">Hello '.$usersel['first_name'].'!</p>

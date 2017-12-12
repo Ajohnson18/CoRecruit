@@ -36,7 +36,7 @@ if(isset($_POST['sendmessage'])) {
 					<body>
 					  <p><b>Name</b>: $name</p>
 					  <br>
-					  <p><b>Coach's Email</b>: $email</p>
+					  <p><b>Coach's Email</b>: $coachemail</p>
 					  <br>
 					  <p><b>Message</b>: $message</p>
 					</body>
