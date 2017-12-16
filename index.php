@@ -206,45 +206,45 @@ if(isset($_POST['delete'])) {
       <hr class="featurette-divider">
     </div>
 
-    <center><h1 class="display-3">Developers</h1></center>
+    <center><h1 class="display-3">Developers</h1>
 
         <hr class="featurette-divider">
 
         <!-- /END THE FEATURETTES -->
-		<div class="row" style="width: 90vw; margin: 0 auto;">
-        <div class="col-lg-4">
+		<div class="row" style="width: 90vw; margin: 0 auto; text-align: center;">
+    <center style="margin: 0 auto;">
+        <div class="" style="margin-bottom: 50px;">
           <img class="rounded-circle" src="img/alex.jpg" alt="Generic placeholder image" width="140" height="140">
           <br>
-		  <h2>Master</h2>
+		  <h2>Project Manager</h2>
 		  <h3>Alex Johnson</h3>
-          <p>Holds the rank of master in the computer science department. Can use his level 5 fireballs to write 15 words per minute... a world record. Is a big fan of cats and the annexation of Texas.</p>
 		</div><!-- /.col-lg-4 -->
 		<br>
-        <div class="col-lg-4">
+        <div class="" style="margin-bottom: 50px;">
           <img class="rounded-circle" src="img/jake.jpg" alt="Generic placeholder image" width="140" height="140">
           <br>
-		  <h2>HTML Wizard</h2>
+		  <h2>Web Developer</h2>
 		   <h3>Jake Toner</h3>
-          <p>A hired professional at creating about pages for websites. Sadly there is no about page for this website so he is being paid for doing nothing.</p>
 		</div><!-- /.col-lg-4 -->
 		<br>
-		<div class="col-lg-4">
+		<div class="" style="margin-bottom: 50px;">
           <img class="rounded-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
           <br>
-		  <h2>Clown</h2>
-		   <h3>Scrappy Doo</h3>
-          <p>Was assigned fifteen different tasks throughout this project, yet has failed to complete a single one. A true inspiration for all trying to accomplish their dreams and live a fuller life.</p>
+		  <h2>Web Designer</h2>
+		   <h3>Jacob Rappaport</h3>
 		</div><!-- /.col-lg-4 -->
 		<br>
-		<div class="col-lg-4">
+		<div class="" style="margin-bottom: 50px;">
           <img class="rounded-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
           <br>
-		  <h2>True Creative Genius</h2>
+		  <h2>Web Designer</h2>
 		   <h3>Erin Cox</h3>
-          <p>The most female member of the team. Was crucial in the creation of our outstanding logo and is an artist at mind and heart... we have no logo.</p>
 		</div><!-- /.col-lg-4 -->
 		<br>
+    </center>
       </div>
+      
+  </center>      
 	  
 
       </div><!-- /.container -->

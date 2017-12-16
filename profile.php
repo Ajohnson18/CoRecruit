@@ -348,7 +348,7 @@ if(isset($_POST['deletepost'])) {
 							<option value="Golf">Golf</option>
 							<option value="Half MarathonCT">Half Marathon</option>
 							<option value="Lacrosse">Lacrosse</option>
-							<option value="Soccor">Soccor</option>
+							<option value="Soccer">Soccer</option>
 							<option value="SoftballFL">Softball</option>
 							<option value="Swimming">Swimming</option>
 							<option value="Diving">Diving</option>
