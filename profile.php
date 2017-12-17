@@ -1,5 +1,6 @@
 <?php
 require("php/config.php");
+require("php/safe.php");
 
 $user = "";
 
@@ -31,6 +32,19 @@ if(isset($_POST['createsport'])) {
 	$awards = $_POST['awards'];
 	$stats = $_POST['stats'];
 	$extra = $_POST['extra'];
+
+	$sport = safe($sport);
+	$highschool = safe($highschool);
+	$level = safe($level);
+	$position = safe($position);
+	$awards = safe($awards);
+	$stats = safe($stats);
+	$extra = safe($extra);
+
+	$awards = str_replace("\n", "<br />", $awards);
+	$stats = str_replace("\n", "<br />", $stats);
+	$extra = str_replace("\n", "<br />", $extra);
+
 
 	$uid = $_COOKIE['userid'];
 
@@ -248,7 +262,7 @@ if(isset($_POST['deletepost'])) {
                 <hr>
 				<?php
 					$userid = $_COOKIE['userid'];
-					$sql = "SELECT * FROM posts WHERE userid = $userid";
+					$sql = "SELECT * FROM posts WHERE userid = $userid ORDER BY id";
 					$res = mysql_query($sql,$dbh);
 
 					if($res != FALSE) {

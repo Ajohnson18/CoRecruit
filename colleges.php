@@ -1,10 +1,12 @@
 <?php
 require("php/config.php");
+require("php/safe.php");
 
 $uid = $_COOKIE['userid'];
 
 if(isset($_POST['submit'])) {
-    $college = $_POST['college'];
+	$college = $_POST['college'];
+	$college = safe($college);
     $sql = "UPDATE users SET college = \"$college\" WHERE id = $uid";
     $res = mysql_query($sql,$dbh);
 }
@@ -251,10 +253,10 @@ if(isset($_POST['submit'])) {
 		}
 
 		function deleteperson(index) {
-			var origname = "<?php echo $college['administration']; ?>";
-			var origtitle = "<?php echo $college['titles']; ?>";
-			var origphone = "<?php echo $college['phone']; ?>";
-			var orignemail = "<?php echo $college['email']; ?>";
+			var origname = "<?php echo safe($college['administration']); ?>";
+			var origtitle = "<?php echo safe($college['titles']); ?>";
+			var origphone = "<?php echo safe($college['phone']); ?>";
+			var orignemail = "<?php echo safe($college['email']); ?>";
 
 			var orignamearray = origname.split("<br>");
 			var name = "";

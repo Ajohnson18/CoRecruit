@@ -2,6 +2,7 @@
 
 require("php/config.php");
 include("php/encrypt.php");
+require("php/safe.php");
 
 if(isset($_POST['create'])) {
 	//GET VARIABLES
@@ -15,6 +16,18 @@ if(isset($_POST['create'])) {
 	$username = $_POST['username'];
 	$password = $_POST['password'];
 	$repassword = $_POST['repassword'];
+
+	$first = safe($first);
+	$last = safe($last);
+	$email = safe($email);
+	$sex = safe($sex);
+	$zipcode = safe($zipcode);
+	$city = safe($city);
+	$state = safe($state);
+	$username = safe($username);
+	$password = safe($password);
+	$repassword = safe($repassword);
+
 
 	//CHECK IF ALL FORMS ARE COMPLETED
 	if(trim($state) != "--------------") {

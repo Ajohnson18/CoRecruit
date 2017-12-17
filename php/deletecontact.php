@@ -1,5 +1,6 @@
 <?php
 require("config.php");
+require("safe.php");
 
 $name = $_GET['name'];
 $title = $_GET['title'];

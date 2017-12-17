@@ -77,7 +77,8 @@ include("php/encrypt.php");
                                 $sql = "UPDATE users SET password = \"$newpass\" WHERE id = $uid";
                                 $res = mysql_query($sql, $dbh);
 
-                                echo '<script>document.location.href = "profile.php"</script>';
+                                header("Location: index.php");
+                                exit;
 
                             } else {
                                 echo "<script>$('#fail2').css('display', 'block');</script>"; 

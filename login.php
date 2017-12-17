@@ -2,11 +2,16 @@
 
 require("php/config.php");
 include("php/encrypt.php");
+require("php/safe.php");
+
 
 if(isset($_POST['submit'])) {
 	//GET VARIABLES
 	$username = $_POST['username'];
 	$password = $_POST['password'];
+
+	$username = safe($username);
+	$password = safe($password);
 	
 	//CHECK IF ALL FORMS ARE COMPLETED
 	if(trim($username) != "") {
@@ -114,7 +119,9 @@ if(isset($_POST['submit'])) {
 				</div>
 				<br>
 				<button type="submit" name="submit" class="btn btn-danger btn-lg btn-block"  style="margin: 20px auto;">Submit</button>
-				<p class="lead-text" style="margin-bottom: -50px;">Don't have an account? Click <a href="signup.php">HERE</a> to create one!</p>
+				<p class="lead-text">Don't have an account? Click <a href="signup.php">HERE</a> to create one!</p>
+				<br>
+				<p class="lead-text" style="margin-bottom: -50px;">Forgot your password? Click <a href="forgotpass.php">HERE</a> to fix that!</p>
             </form>
         </section>
 		</header>

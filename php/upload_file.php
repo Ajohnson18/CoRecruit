@@ -1,8 +1,9 @@
 <?php
 require("config.php");
+require("safe.php");
 
 if(isset($_GET['post'])) {
-  $allowedExts = array("jpg", "jpeg", "gif", "png", "mp3", "mp4", "wma", "PNG", "JPG", "JPEG");
+  $allowedExts = array("jpg", "jpeg", "gif", "png", "mp3", "mp4", "wma", "PNG", "JPG", "JPEG", "FLV", "flv", "MOV", "mov", "MP4", "avi", "AVI");
   $extension = pathinfo($_FILES['file']['name'], PATHINFO_EXTENSION);
   
   if ((($_FILES["file"]["type"] == "video/mp4")
@@ -10,6 +11,9 @@ if(isset($_GET['post'])) {
   || ($_FILES["file"]["type"] == "audio/wma")
   || ($_FILES["file"]["type"] == "image/pjpeg")
   || ($_FILES["file"]["type"] == "image/gif")
+  || ($_FILES["file"]["type"] == "audio/avi")
+  || ($_FILES["file"]["type"] == "audio/mov")
+  || ($_FILES["file"]["type"] == "audio/flv")
   || ($_FILES["file"]["type"] == "image/png")
   || ($_FILES["file"]["type"] == "image/PNG")
   || ($_FILES["file"]["type"] == "image/jpg")
@@ -46,6 +50,12 @@ if(isset($_GET['post'])) {
       $url = $_FILES["file"]["name"];
       $userid = $_COOKIE['userid'];
 
+      $type = safe($type);
+      $title = safe($title);
+      $description = safe($description);
+
+      $description = str_replace("\n", "<br />", $description);
+
       $sql = "INSERT INTO posts VALUES (\"\", \"$title\", \"$description\", \"$type\", \"$url\", \"$userid\")";
       $res = mysql_query($sql,$dbh);
       
@@ -58,12 +68,15 @@ if(isset($_GET['post'])) {
     echo "Invalid file";
     }
 } else {
-  $allowedExts = array("jpg", "jpeg", "gif", "png", "mp3", "mp4", "wma", "PNG", "JPG", "JPEG");
+  $allowedExts = array("jpg", "jpeg", "gif", "png", "mp3", "mp4", "wma", "PNG", "JPG", "JPEG", "FLV", "flv", "MOV", "mov", "MP4", "avi", "AVI");
   $extension = pathinfo($_FILES['file']['name'], PATHINFO_EXTENSION);
   
   if ((($_FILES["file"]["type"] == "video/mp4")
   || ($_FILES["file"]["type"] == "audio/mp3")
   || ($_FILES["file"]["type"] == "audio/wma")
+  || ($_FILES["file"]["type"] == "audio/avi")
+  || ($_FILES["file"]["type"] == "audio/mov")
+  || ($_FILES["file"]["type"] == "audio/flv")
   || ($_FILES["file"]["type"] == "image/pjpeg")
   || ($_FILES["file"]["type"] == "image/gif")
   || ($_FILES["file"]["type"] == "image/png")

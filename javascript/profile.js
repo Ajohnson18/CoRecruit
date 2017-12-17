@@ -166,6 +166,11 @@ function saves(i, uid, sid) {
         select = "extra";
     }
 
+    var value = $("#inputt").val();
+
+    value = value.replace("'", "\'");
+    value = value.replace('"', '\"');
+
     $.ajax({
                         
         type: "POST",
@@ -174,7 +179,7 @@ function saves(i, uid, sid) {
             contentType: "application/json",
             data: `
             {
-                "change": "`+ $("#inputt").val() +`"
+                "change": "`+value+`"
             }`,
             success: function(r) {
                 console.log(r);
